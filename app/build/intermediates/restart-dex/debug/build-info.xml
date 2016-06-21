@@ -4,27 +4,27 @@
     api-level="22"
     density="420dpi"
     format="7"
-    timestamp="6831775329730"
+    timestamp="8356295544885"
     token="6844221538367686893" >
 
     <task
         name="javac"
-        duration="12071" />
+        duration="16358" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="872" />
+        duration="1060" />
     <task
         name="verifier"
-        duration="49" />
+        duration="37" />
 
     <artifact
         location="/home/raul/git/NyROD/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="6831775329730" >
+    <build timestamp="8356295544885" >
         <artifact
             location="/home/raul/git/NyROD/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />

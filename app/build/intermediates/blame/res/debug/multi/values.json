@@ -5536,8 +5536,8 @@
                     "startLine": 341,
                     "startColumn": 4,
                     "startOffset": 47919,
-                    "endColumn": 111,
-                    "endOffset": 48026
+                    "endColumn": 137,
+                    "endOffset": 48052
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/src/debug/res/values/google_maps_api.xml",
@@ -5545,8 +5545,8 @@
                         "startLine": 17,
                         "startColumn": 4,
                         "startOffset": 783,
-                        "endColumn": 111,
-                        "endOffset": 890
+                        "endColumn": 137,
+                        "endOffset": 916
                     }
                 }
             },
@@ -5554,9 +5554,9 @@
                 "to": {
                     "startLine": 342,
                     "startColumn": 4,
-                    "startOffset": 48031,
+                    "startOffset": 48057,
                     "endColumn": 74,
-                    "endOffset": 48101
+                    "endOffset": 48127
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values/values.xml",
@@ -5573,9 +5573,9 @@
                 "to": {
                     "startLine": 343,
                     "startColumn": 4,
-                    "startOffset": 48106,
+                    "startOffset": 48132,
                     "endColumn": 88,
-                    "endOffset": 48190
+                    "endOffset": 48216
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values/values.xml",
@@ -5592,9 +5592,9 @@
                 "to": {
                     "startLine": 344,
                     "startColumn": 4,
-                    "startOffset": 48195,
+                    "startOffset": 48221,
                     "endColumn": 74,
-                    "endOffset": 48265
+                    "endOffset": 48291
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values/values.xml",
@@ -5611,9 +5611,9 @@
                 "to": {
                     "startLine": 345,
                     "startColumn": 4,
-                    "startOffset": 48270,
+                    "startOffset": 48296,
                     "endColumn": 75,
-                    "endOffset": 48341
+                    "endOffset": 48367
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values/values.xml",
@@ -5630,9 +5630,9 @@
                 "to": {
                     "startLine": 346,
                     "startColumn": 4,
-                    "startOffset": 48346,
+                    "startOffset": 48372,
                     "endColumn": 89,
-                    "endOffset": 48431
+                    "endOffset": 48457
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values/values.xml",
@@ -5649,9 +5649,9 @@
                 "to": {
                     "startLine": 347,
                     "startColumn": 4,
-                    "startOffset": 48436,
+                    "startOffset": 48462,
                     "endColumn": 65,
-                    "endOffset": 48497
+                    "endOffset": 48523
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values/values.xml",
@@ -5668,9 +5668,9 @@
                 "to": {
                     "startLine": 348,
                     "startColumn": 4,
-                    "startOffset": 48502,
+                    "startOffset": 48528,
                     "endColumn": 63,
-                    "endOffset": 48561
+                    "endOffset": 48587
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values/values.xml",
@@ -5687,9 +5687,9 @@
                 "to": {
                     "startLine": 349,
                     "startColumn": 4,
-                    "startOffset": 48566,
+                    "startOffset": 48592,
                     "endColumn": 89,
-                    "endOffset": 48651
+                    "endOffset": 48677
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values/values.xml",
@@ -5706,9 +5706,9 @@
                 "to": {
                     "startLine": 350,
                     "startColumn": 4,
-                    "startOffset": 48656,
+                    "startOffset": 48682,
                     "endColumn": 71,
-                    "endOffset": 48723
+                    "endOffset": 48749
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values/values.xml",
@@ -5725,9 +5725,9 @@
                 "to": {
                     "startLine": 351,
                     "startColumn": 4,
-                    "startOffset": 48728,
+                    "startOffset": 48754,
                     "endColumn": 55,
-                    "endOffset": 48779
+                    "endOffset": 48805
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values/values.xml",
@@ -5744,9 +5744,9 @@
                 "to": {
                     "startLine": 352,
                     "startColumn": 4,
-                    "startOffset": 48784,
+                    "startOffset": 48810,
                     "endColumn": 63,
-                    "endOffset": 48843
+                    "endOffset": 48869
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values/values.xml",
@@ -5763,9 +5763,9 @@
                 "to": {
                     "startLine": 353,
                     "startColumn": 4,
-                    "startOffset": 48848,
+                    "startOffset": 48874,
                     "endColumn": 72,
-                    "endOffset": 48916
+                    "endOffset": 48942
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/res/values/values.xml",
@@ -5782,9 +5782,9 @@
                 "to": {
                     "startLine": 354,
                     "startColumn": 4,
-                    "startOffset": 48921,
+                    "startOffset": 48947,
                     "endColumn": 65,
-                    "endOffset": 48982
+                    "endOffset": 49008
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/res/values/values.xml",
@@ -5801,9 +5801,9 @@
                 "to": {
                     "startLine": 355,
                     "startColumn": 4,
-                    "startOffset": 48987,
+                    "startOffset": 49013,
                     "endColumn": 70,
-                    "endOffset": 49053
+                    "endOffset": 49079
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -5820,9 +5820,9 @@
                 "to": {
                     "startLine": 356,
                     "startColumn": 4,
-                    "startOffset": 49058,
+                    "startOffset": 49084,
                     "endColumn": 95,
-                    "endOffset": 49149
+                    "endOffset": 49175
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.2/res/values/values.xml",
@@ -5839,9 +5839,9 @@
                 "to": {
                     "startLine": 357,
                     "startColumn": 4,
-                    "startOffset": 49154,
+                    "startOffset": 49180,
                     "endColumn": 58,
-                    "endOffset": 49208
+                    "endOffset": 49234
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.2/res/values/values.xml",
@@ -5858,9 +5858,9 @@
                 "to": {
                     "startLine": 358,
                     "startColumn": 4,
-                    "startOffset": 49213,
+                    "startOffset": 49239,
                     "endColumn": 69,
-                    "endOffset": 49278
+                    "endOffset": 49304
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.0.2/res/values/values.xml",
@@ -5877,9 +5877,9 @@
                 "to": {
                     "startLine": 359,
                     "startColumn": 4,
-                    "startOffset": 49283,
+                    "startOffset": 49309,
                     "endColumn": 83,
-                    "endOffset": 49362
+                    "endOffset": 49388
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.0.2/res/values/values.xml",
@@ -5896,9 +5896,9 @@
                 "to": {
                     "startLine": 360,
                     "startColumn": 4,
-                    "startOffset": 49367,
+                    "startOffset": 49393,
                     "endColumn": 67,
-                    "endOffset": 49430
+                    "endOffset": 49456
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.0.2/res/values/values.xml",
@@ -5915,9 +5915,9 @@
                 "to": {
                     "startLine": 361,
                     "startColumn": 4,
-                    "startOffset": 49435,
+                    "startOffset": 49461,
                     "endColumn": 55,
-                    "endOffset": 49486
+                    "endOffset": 49512
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/src/main/res/values/strings.xml",
@@ -5934,9 +5934,9 @@
                 "to": {
                     "startLine": 362,
                     "startColumn": 4,
-                    "startOffset": 49491,
+                    "startOffset": 49517,
                     "endColumn": 74,
-                    "endOffset": 49561
+                    "endOffset": 49587
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.0.2/res/values/values.xml",
@@ -5953,9 +5953,9 @@
                 "to": {
                     "startLine": 363,
                     "startColumn": 4,
-                    "startOffset": 49566,
+                    "startOffset": 49592,
                     "endColumn": 77,
-                    "endOffset": 49639
+                    "endOffset": 49665
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -5972,9 +5972,9 @@
                 "to": {
                     "startLine": 364,
                     "startColumn": 4,
-                    "startOffset": 49644,
+                    "startOffset": 49670,
                     "endColumn": 89,
-                    "endOffset": 49729
+                    "endOffset": 49755
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -5991,9 +5991,9 @@
                 "to": {
                     "startLine": 365,
                     "startColumn": 4,
-                    "startOffset": 49734,
+                    "startOffset": 49760,
                     "endColumn": 87,
-                    "endOffset": 49817
+                    "endOffset": 49843
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6010,9 +6010,9 @@
                 "to": {
                     "startLine": 366,
                     "startColumn": 4,
-                    "startOffset": 49822,
+                    "startOffset": 49848,
                     "endColumn": 95,
-                    "endOffset": 49913
+                    "endOffset": 49939
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6029,10 +6029,10 @@
                 "to": {
                     "startLine": 367,
                     "startColumn": 4,
-                    "startOffset": 49918,
+                    "startOffset": 49944,
                     "endLine": 372,
                     "endColumn": 12,
-                    "endOffset": 50232
+                    "endOffset": 50258
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/src/main/res/values/styles.xml",
@@ -6050,10 +6050,10 @@
                 "to": {
                     "startLine": 373,
                     "startColumn": 4,
-                    "startOffset": 50237,
+                    "startOffset": 50263,
                     "endLine": 379,
                     "endColumn": 12,
-                    "endOffset": 50733
+                    "endOffset": 50759
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6071,9 +6071,9 @@
                 "to": {
                     "startLine": 380,
                     "startColumn": 4,
-                    "startOffset": 50738,
+                    "startOffset": 50764,
                     "endColumn": 88,
-                    "endOffset": 50822
+                    "endOffset": 50848
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6090,10 +6090,10 @@
                 "to": {
                     "startLine": 381,
                     "startColumn": 4,
-                    "startOffset": 50827,
+                    "startOffset": 50853,
                     "endLine": 384,
                     "endColumn": 12,
-                    "endOffset": 51069
+                    "endOffset": 51095
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6111,10 +6111,10 @@
                 "to": {
                     "startLine": 385,
                     "startColumn": 4,
-                    "startOffset": 51074,
+                    "startOffset": 51100,
                     "endLine": 388,
                     "endColumn": 12,
-                    "endOffset": 51350
+                    "endOffset": 51376
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6132,10 +6132,10 @@
                 "to": {
                     "startLine": 389,
                     "startColumn": 4,
-                    "startOffset": 51355,
+                    "startOffset": 51381,
                     "endLine": 393,
                     "endColumn": 12,
-                    "endOffset": 51635
+                    "endOffset": 51661
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6153,10 +6153,10 @@
                 "to": {
                     "startLine": 394,
                     "startColumn": 4,
-                    "startOffset": 51640,
+                    "startOffset": 51666,
                     "endLine": 399,
                     "endColumn": 12,
-                    "endOffset": 52028
+                    "endOffset": 52054
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6174,10 +6174,10 @@
                 "to": {
                     "startLine": 400,
                     "startColumn": 4,
-                    "startOffset": 52033,
+                    "startOffset": 52059,
                     "endLine": 406,
                     "endColumn": 12,
-                    "endOffset": 52505
+                    "endOffset": 52531
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6195,10 +6195,10 @@
                 "to": {
                     "startLine": 407,
                     "startColumn": 4,
-                    "startOffset": 52510,
+                    "startOffset": 52536,
                     "endLine": 410,
                     "endColumn": 12,
-                    "endOffset": 52727
+                    "endOffset": 52753
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6216,10 +6216,10 @@
                 "to": {
                     "startLine": 411,
                     "startColumn": 4,
-                    "startOffset": 52732,
+                    "startOffset": 52758,
                     "endLine": 414,
                     "endColumn": 12,
-                    "endOffset": 52949
+                    "endOffset": 52975
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6237,10 +6237,10 @@
                 "to": {
                     "startLine": 415,
                     "startColumn": 4,
-                    "startOffset": 52954,
+                    "startOffset": 52980,
                     "endLine": 419,
                     "endColumn": 12,
-                    "endOffset": 53217
+                    "endOffset": 53243
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6258,10 +6258,10 @@
                 "to": {
                     "startLine": 420,
                     "startColumn": 4,
-                    "startOffset": 53222,
+                    "startOffset": 53248,
                     "endLine": 423,
                     "endColumn": 12,
-                    "endOffset": 53444
+                    "endOffset": 53470
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6279,10 +6279,10 @@
                 "to": {
                     "startLine": 424,
                     "startColumn": 4,
-                    "startOffset": 53449,
+                    "startOffset": 53475,
                     "endLine": 427,
                     "endColumn": 12,
-                    "endOffset": 53674
+                    "endOffset": 53700
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6300,10 +6300,10 @@
                 "to": {
                     "startLine": 428,
                     "startColumn": 4,
-                    "startOffset": 53679,
+                    "startOffset": 53705,
                     "endLine": 431,
                     "endColumn": 12,
-                    "endOffset": 53904
+                    "endOffset": 53930
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6321,10 +6321,10 @@
                 "to": {
                     "startLine": 432,
                     "startColumn": 4,
-                    "startOffset": 53909,
+                    "startOffset": 53935,
                     "endLine": 435,
                     "endColumn": 12,
-                    "endOffset": 54134
+                    "endOffset": 54160
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6342,10 +6342,10 @@
                 "to": {
                     "startLine": 436,
                     "startColumn": 4,
-                    "startOffset": 54139,
+                    "startOffset": 54165,
                     "endLine": 439,
                     "endColumn": 12,
-                    "endOffset": 54364
+                    "endOffset": 54390
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6363,10 +6363,10 @@
                 "to": {
                     "startLine": 440,
                     "startColumn": 4,
-                    "startOffset": 54369,
+                    "startOffset": 54395,
                     "endLine": 443,
                     "endColumn": 12,
-                    "endOffset": 54591
+                    "endOffset": 54617
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6384,10 +6384,10 @@
                 "to": {
                     "startLine": 444,
                     "startColumn": 4,
-                    "startOffset": 54596,
+                    "startOffset": 54622,
                     "endLine": 447,
                     "endColumn": 12,
-                    "endOffset": 54830
+                    "endOffset": 54856
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6405,10 +6405,10 @@
                 "to": {
                     "startLine": 448,
                     "startColumn": 4,
-                    "startOffset": 54835,
+                    "startOffset": 54861,
                     "endLine": 451,
                     "endColumn": 12,
-                    "endOffset": 55056
+                    "endOffset": 55082
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6426,10 +6426,10 @@
                 "to": {
                     "startLine": 452,
                     "startColumn": 4,
-                    "startOffset": 55061,
+                    "startOffset": 55087,
                     "endLine": 455,
                     "endColumn": 12,
-                    "endOffset": 55301
+                    "endOffset": 55327
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6447,10 +6447,10 @@
                 "to": {
                     "startLine": 456,
                     "startColumn": 4,
-                    "startOffset": 55306,
+                    "startOffset": 55332,
                     "endLine": 459,
                     "endColumn": 12,
-                    "endOffset": 55531
+                    "endOffset": 55557
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6468,10 +6468,10 @@
                 "to": {
                     "startLine": 460,
                     "startColumn": 4,
-                    "startOffset": 55536,
+                    "startOffset": 55562,
                     "endLine": 463,
                     "endColumn": 12,
-                    "endOffset": 55779
+                    "endOffset": 55805
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6489,10 +6489,10 @@
                 "to": {
                     "startLine": 464,
                     "startColumn": 4,
-                    "startOffset": 55784,
+                    "startOffset": 55810,
                     "endLine": 467,
                     "endColumn": 12,
-                    "endOffset": 55998
+                    "endOffset": 56024
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6510,10 +6510,10 @@
                 "to": {
                     "startLine": 468,
                     "startColumn": 4,
-                    "startOffset": 56003,
+                    "startOffset": 56029,
                     "endLine": 472,
                     "endColumn": 12,
-                    "endOffset": 56281
+                    "endOffset": 56307
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6531,10 +6531,10 @@
                 "to": {
                     "startLine": 473,
                     "startColumn": 4,
-                    "startOffset": 56286,
+                    "startOffset": 56312,
                     "endLine": 476,
                     "endColumn": 12,
-                    "endOffset": 56489
+                    "endOffset": 56515
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6552,10 +6552,10 @@
                 "to": {
                     "startLine": 477,
                     "startColumn": 4,
-                    "startOffset": 56494,
+                    "startOffset": 56520,
                     "endLine": 479,
                     "endColumn": 12,
-                    "endOffset": 56620
+                    "endOffset": 56646
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6573,10 +6573,10 @@
                 "to": {
                     "startLine": 480,
                     "startColumn": 4,
-                    "startOffset": 56625,
+                    "startOffset": 56651,
                     "endLine": 483,
                     "endColumn": 12,
-                    "endOffset": 56847
+                    "endOffset": 56873
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6594,10 +6594,10 @@
                 "to": {
                     "startLine": 484,
                     "startColumn": 4,
-                    "startOffset": 56852,
+                    "startOffset": 56878,
                     "endLine": 487,
                     "endColumn": 12,
-                    "endOffset": 57093
+                    "endOffset": 57119
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6615,10 +6615,10 @@
                 "to": {
                     "startLine": 488,
                     "startColumn": 4,
-                    "startOffset": 57098,
+                    "startOffset": 57124,
                     "endLine": 491,
                     "endColumn": 12,
-                    "endOffset": 57318
+                    "endOffset": 57344
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6636,10 +6636,10 @@
                 "to": {
                     "startLine": 492,
                     "startColumn": 4,
-                    "startOffset": 57323,
+                    "startOffset": 57349,
                     "endLine": 495,
                     "endColumn": 12,
-                    "endOffset": 57565
+                    "endOffset": 57591
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6657,10 +6657,10 @@
                 "to": {
                     "startLine": 496,
                     "startColumn": 4,
-                    "startOffset": 57570,
+                    "startOffset": 57596,
                     "endLine": 499,
                     "endColumn": 12,
-                    "endOffset": 57786
+                    "endOffset": 57812
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6678,10 +6678,10 @@
                 "to": {
                     "startLine": 500,
                     "startColumn": 4,
-                    "startOffset": 57791,
+                    "startOffset": 57817,
                     "endLine": 503,
                     "endColumn": 12,
-                    "endOffset": 58031
+                    "endOffset": 58057
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6699,10 +6699,10 @@
                 "to": {
                     "startLine": 504,
                     "startColumn": 4,
-                    "startOffset": 58036,
+                    "startOffset": 58062,
                     "endLine": 507,
                     "endColumn": 12,
-                    "endOffset": 58307
+                    "endOffset": 58333
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6720,10 +6720,10 @@
                 "to": {
                     "startLine": 508,
                     "startColumn": 4,
-                    "startOffset": 58312,
+                    "startOffset": 58338,
                     "endLine": 511,
                     "endColumn": 12,
-                    "endOffset": 58608
+                    "endOffset": 58634
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6741,10 +6741,10 @@
                 "to": {
                     "startLine": 512,
                     "startColumn": 4,
-                    "startOffset": 58613,
+                    "startOffset": 58639,
                     "endLine": 515,
                     "endColumn": 12,
-                    "endOffset": 58932
+                    "endOffset": 58958
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6762,10 +6762,10 @@
                 "to": {
                     "startLine": 516,
                     "startColumn": 4,
-                    "startOffset": 58937,
+                    "startOffset": 58963,
                     "endLine": 519,
                     "endColumn": 12,
-                    "endOffset": 59223
+                    "endOffset": 59249
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6783,10 +6783,10 @@
                 "to": {
                     "startLine": 520,
                     "startColumn": 4,
-                    "startOffset": 59228,
+                    "startOffset": 59254,
                     "endLine": 523,
                     "endColumn": 12,
-                    "endOffset": 59537
+                    "endOffset": 59563
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6804,9 +6804,9 @@
                 "to": {
                     "startLine": 524,
                     "startColumn": 4,
-                    "startOffset": 59542,
+                    "startOffset": 59568,
                     "endColumn": 136,
-                    "endOffset": 59674
+                    "endOffset": 59700
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6823,9 +6823,9 @@
                 "to": {
                     "startLine": 525,
                     "startColumn": 4,
-                    "startOffset": 59679,
+                    "startOffset": 59705,
                     "endColumn": 130,
-                    "endOffset": 59805
+                    "endOffset": 59831
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6842,9 +6842,9 @@
                 "to": {
                     "startLine": 526,
                     "startColumn": 4,
-                    "startOffset": 59810,
+                    "startOffset": 59836,
                     "endColumn": 104,
-                    "endOffset": 59910
+                    "endOffset": 59936
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6861,10 +6861,10 @@
                 "to": {
                     "startLine": 527,
                     "startColumn": 4,
-                    "startOffset": 59915,
+                    "startOffset": 59941,
                     "endLine": 529,
                     "endColumn": 12,
-                    "endOffset": 60114
+                    "endOffset": 60140
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6882,10 +6882,10 @@
                 "to": {
                     "startLine": 530,
                     "startColumn": 4,
-                    "startOffset": 60119,
+                    "startOffset": 60145,
                     "endLine": 532,
                     "endColumn": 12,
-                    "endOffset": 60322
+                    "endOffset": 60348
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6903,10 +6903,10 @@
                 "to": {
                     "startLine": 533,
                     "startColumn": 4,
-                    "startOffset": 60327,
+                    "startOffset": 60353,
                     "endLine": 536,
                     "endColumn": 12,
-                    "endOffset": 60608
+                    "endOffset": 60634
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6924,9 +6924,9 @@
                 "to": {
                     "startLine": 537,
                     "startColumn": 4,
-                    "startOffset": 60613,
+                    "startOffset": 60639,
                     "endColumn": 111,
-                    "endOffset": 60720
+                    "endOffset": 60746
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6943,9 +6943,9 @@
                 "to": {
                     "startLine": 538,
                     "startColumn": 4,
-                    "startOffset": 60725,
+                    "startOffset": 60751,
                     "endColumn": 111,
-                    "endOffset": 60832
+                    "endOffset": 60858
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6962,9 +6962,9 @@
                 "to": {
                     "startLine": 539,
                     "startColumn": 4,
-                    "startOffset": 60837,
+                    "startOffset": 60863,
                     "endColumn": 104,
-                    "endOffset": 60937
+                    "endOffset": 60963
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -6981,9 +6981,9 @@
                 "to": {
                     "startLine": 540,
                     "startColumn": 4,
-                    "startOffset": 60942,
+                    "startOffset": 60968,
                     "endColumn": 116,
-                    "endOffset": 61054
+                    "endOffset": 61080
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7000,10 +7000,10 @@
                 "to": {
                     "startLine": 541,
                     "startColumn": 4,
-                    "startOffset": 61059,
+                    "startOffset": 61085,
                     "endLine": 543,
                     "endColumn": 12,
-                    "endOffset": 61268
+                    "endOffset": 61294
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7021,10 +7021,10 @@
                 "to": {
                     "startLine": 544,
                     "startColumn": 4,
-                    "startOffset": 61273,
+                    "startOffset": 61299,
                     "endLine": 545,
                     "endColumn": 12,
-                    "endOffset": 61414
+                    "endOffset": 61440
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7042,10 +7042,10 @@
                 "to": {
                     "startLine": 546,
                     "startColumn": 4,
-                    "startOffset": 61419,
+                    "startOffset": 61445,
                     "endLine": 547,
                     "endColumn": 12,
-                    "endOffset": 61554
+                    "endOffset": 61580
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7063,10 +7063,10 @@
                 "to": {
                     "startLine": 548,
                     "startColumn": 4,
-                    "startOffset": 61559,
+                    "startOffset": 61585,
                     "endLine": 549,
                     "endColumn": 12,
-                    "endOffset": 61640
+                    "endOffset": 61666
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7084,10 +7084,10 @@
                 "to": {
                     "startLine": 550,
                     "startColumn": 4,
-                    "startOffset": 61645,
+                    "startOffset": 61671,
                     "endLine": 554,
                     "endColumn": 12,
-                    "endOffset": 61988
+                    "endOffset": 62014
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7105,9 +7105,9 @@
                 "to": {
                     "startLine": 555,
                     "startColumn": 4,
-                    "startOffset": 61993,
+                    "startOffset": 62019,
                     "endColumn": 87,
-                    "endOffset": 62076
+                    "endOffset": 62102
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7124,10 +7124,10 @@
                 "to": {
                     "startLine": 556,
                     "startColumn": 4,
-                    "startOffset": 62081,
+                    "startOffset": 62107,
                     "endLine": 559,
                     "endColumn": 12,
-                    "endOffset": 62306
+                    "endOffset": 62332
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7145,10 +7145,10 @@
                 "to": {
                     "startLine": 560,
                     "startColumn": 4,
-                    "startOffset": 62311,
+                    "startOffset": 62337,
                     "endLine": 565,
                     "endColumn": 12,
-                    "endOffset": 62724
+                    "endOffset": 62750
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7166,10 +7166,10 @@
                 "to": {
                     "startLine": 566,
                     "startColumn": 4,
-                    "startOffset": 62729,
+                    "startOffset": 62755,
                     "endLine": 569,
                     "endColumn": 12,
-                    "endOffset": 62957
+                    "endOffset": 62983
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7187,9 +7187,9 @@
                 "to": {
                     "startLine": 570,
                     "startColumn": 4,
-                    "startOffset": 62962,
+                    "startOffset": 62988,
                     "endColumn": 81,
-                    "endOffset": 63039
+                    "endOffset": 63065
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7206,10 +7206,10 @@
                 "to": {
                     "startLine": 571,
                     "startColumn": 4,
-                    "startOffset": 63044,
+                    "startOffset": 63070,
                     "endLine": 572,
                     "endColumn": 12,
-                    "endOffset": 63137
+                    "endOffset": 63163
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7227,10 +7227,10 @@
                 "to": {
                     "startLine": 573,
                     "startColumn": 4,
-                    "startOffset": 63142,
+                    "startOffset": 63168,
                     "endLine": 583,
                     "endColumn": 12,
-                    "endOffset": 63754
+                    "endOffset": 63780
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7248,9 +7248,9 @@
                 "to": {
                     "startLine": 584,
                     "startColumn": 4,
-                    "startOffset": 63759,
+                    "startOffset": 63785,
                     "endColumn": 99,
-                    "endOffset": 63854
+                    "endOffset": 63880
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7267,10 +7267,10 @@
                 "to": {
                     "startLine": 585,
                     "startColumn": 4,
-                    "startOffset": 63859,
+                    "startOffset": 63885,
                     "endLine": 588,
                     "endColumn": 12,
-                    "endOffset": 64090
+                    "endOffset": 64116
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7288,10 +7288,10 @@
                 "to": {
                     "startLine": 589,
                     "startColumn": 4,
-                    "startOffset": 64095,
+                    "startOffset": 64121,
                     "endLine": 594,
                     "endColumn": 12,
-                    "endOffset": 64514
+                    "endOffset": 64540
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7309,10 +7309,10 @@
                 "to": {
                     "startLine": 595,
                     "startColumn": 4,
-                    "startOffset": 64519,
+                    "startOffset": 64545,
                     "endLine": 598,
                     "endColumn": 12,
-                    "endOffset": 64753
+                    "endOffset": 64779
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7330,9 +7330,9 @@
                 "to": {
                     "startLine": 599,
                     "startColumn": 4,
-                    "startOffset": 64758,
+                    "startOffset": 64784,
                     "endColumn": 93,
-                    "endOffset": 64847
+                    "endOffset": 64873
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7349,9 +7349,9 @@
                 "to": {
                     "startLine": 600,
                     "startColumn": 4,
-                    "startOffset": 64852,
+                    "startOffset": 64878,
                     "endColumn": 88,
-                    "endOffset": 64936
+                    "endOffset": 64962
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7368,10 +7368,10 @@
                 "to": {
                     "startLine": 601,
                     "startColumn": 4,
-                    "startOffset": 64941,
+                    "startOffset": 64967,
                     "endLine": 604,
                     "endColumn": 12,
-                    "endOffset": 65173
+                    "endOffset": 65199
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7389,10 +7389,10 @@
                 "to": {
                     "startLine": 605,
                     "startColumn": 4,
-                    "startOffset": 65178,
+                    "startOffset": 65204,
                     "endLine": 630,
                     "endColumn": 12,
-                    "endOffset": 67124
+                    "endOffset": 67150
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7410,10 +7410,10 @@
                 "to": {
                     "startLine": 631,
                     "startColumn": 4,
-                    "startOffset": 67129,
+                    "startOffset": 67155,
                     "endLine": 634,
                     "endColumn": 12,
-                    "endOffset": 67366
+                    "endOffset": 67392
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7431,9 +7431,9 @@
                 "to": {
                     "startLine": 635,
                     "startColumn": 4,
-                    "startOffset": 67371,
+                    "startOffset": 67397,
                     "endColumn": 101,
-                    "endOffset": 67468
+                    "endOffset": 67494
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7450,10 +7450,10 @@
                 "to": {
                     "startLine": 636,
                     "startColumn": 4,
-                    "startOffset": 67473,
+                    "startOffset": 67499,
                     "endLine": 639,
                     "endColumn": 12,
-                    "endOffset": 67705
+                    "endOffset": 67731
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7471,10 +7471,10 @@
                 "to": {
                     "startLine": 640,
                     "startColumn": 4,
-                    "startOffset": 67710,
+                    "startOffset": 67736,
                     "endLine": 666,
                     "endColumn": 12,
-                    "endOffset": 69787
+                    "endOffset": 69813
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7492,10 +7492,10 @@
                 "to": {
                     "startLine": 667,
                     "startColumn": 4,
-                    "startOffset": 69792,
+                    "startOffset": 69818,
                     "endLine": 825,
                     "endColumn": 12,
-                    "endOffset": 79948
+                    "endOffset": 79974
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7513,10 +7513,10 @@
                 "to": {
                     "startLine": 826,
                     "startColumn": 4,
-                    "startOffset": 79953,
+                    "startOffset": 79979,
                     "endLine": 847,
                     "endColumn": 12,
-                    "endOffset": 81199
+                    "endOffset": 81225
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7534,10 +7534,10 @@
                 "to": {
                     "startLine": 848,
                     "startColumn": 4,
-                    "startOffset": 81204,
+                    "startOffset": 81230,
                     "endLine": 1006,
                     "endColumn": 12,
-                    "endOffset": 91458
+                    "endOffset": 91484
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7555,10 +7555,10 @@
                 "to": {
                     "startLine": 1007,
                     "startColumn": 4,
-                    "startOffset": 91463,
+                    "startOffset": 91489,
                     "endLine": 1028,
                     "endColumn": 12,
-                    "endOffset": 92721
+                    "endOffset": 92747
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7576,10 +7576,10 @@
                 "to": {
                     "startLine": 1029,
                     "startColumn": 4,
-                    "startOffset": 92726,
+                    "startOffset": 92752,
                     "endLine": 1050,
                     "endColumn": 12,
-                    "endOffset": 93986
+                    "endOffset": 94012
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7597,10 +7597,10 @@
                 "to": {
                     "startLine": 1051,
                     "startColumn": 4,
-                    "startOffset": 93991,
+                    "startOffset": 94017,
                     "endLine": 1057,
                     "endColumn": 12,
-                    "endOffset": 94522
+                    "endOffset": 94548
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7618,10 +7618,10 @@
                 "to": {
                     "startLine": 1058,
                     "startColumn": 4,
-                    "startOffset": 94527,
+                    "startOffset": 94553,
                     "endLine": 1062,
                     "endColumn": 12,
-                    "endOffset": 94852
+                    "endOffset": 94878
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7639,10 +7639,10 @@
                 "to": {
                     "startLine": 1063,
                     "startColumn": 4,
-                    "startOffset": 94857,
+                    "startOffset": 94883,
                     "endLine": 1084,
                     "endColumn": 12,
-                    "endOffset": 96080
+                    "endOffset": 96106
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7660,10 +7660,10 @@
                 "to": {
                     "startLine": 1085,
                     "startColumn": 4,
-                    "startOffset": 96085,
+                    "startOffset": 96111,
                     "endLine": 1089,
                     "endColumn": 12,
-                    "endOffset": 96336
+                    "endOffset": 96362
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7681,10 +7681,10 @@
                 "to": {
                     "startLine": 1090,
                     "startColumn": 4,
-                    "startOffset": 96341,
+                    "startOffset": 96367,
                     "endLine": 1094,
                     "endColumn": 12,
-                    "endOffset": 96572
+                    "endOffset": 96598
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7702,10 +7702,10 @@
                 "to": {
                     "startLine": 1095,
                     "startColumn": 4,
-                    "startOffset": 96577,
+                    "startOffset": 96603,
                     "endLine": 1104,
                     "endColumn": 12,
-                    "endOffset": 97119
+                    "endOffset": 97145
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7723,10 +7723,10 @@
                 "to": {
                     "startLine": 1105,
                     "startColumn": 4,
-                    "startOffset": 97124,
+                    "startOffset": 97150,
                     "endLine": 1113,
                     "endColumn": 12,
-                    "endOffset": 97613
+                    "endOffset": 97639
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7744,10 +7744,10 @@
                 "to": {
                     "startLine": 1114,
                     "startColumn": 4,
-                    "startOffset": 97618,
+                    "startOffset": 97644,
                     "endLine": 1122,
                     "endColumn": 12,
-                    "endOffset": 98218
+                    "endOffset": 98244
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7765,10 +7765,10 @@
                 "to": {
                     "startLine": 1123,
                     "startColumn": 4,
-                    "startOffset": 98223,
+                    "startOffset": 98249,
                     "endLine": 1125,
                     "endColumn": 12,
-                    "endOffset": 98366
+                    "endOffset": 98392
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7786,10 +7786,10 @@
                 "to": {
                     "startLine": 1126,
                     "startColumn": 4,
-                    "startOffset": 98371,
+                    "startOffset": 98397,
                     "endLine": 1132,
                     "endColumn": 12,
-                    "endOffset": 98946
+                    "endOffset": 98972
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7807,10 +7807,10 @@
                 "to": {
                     "startLine": 1133,
                     "startColumn": 4,
-                    "startOffset": 98951,
+                    "startOffset": 98977,
                     "endLine": 1140,
                     "endColumn": 12,
-                    "endOffset": 99510
+                    "endOffset": 99536
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7828,10 +7828,10 @@
                 "to": {
                     "startLine": 1141,
                     "startColumn": 4,
-                    "startOffset": 99515,
+                    "startOffset": 99541,
                     "endLine": 1147,
                     "endColumn": 12,
-                    "endOffset": 99885
+                    "endOffset": 99911
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7849,9 +7849,9 @@
                 "to": {
                     "startLine": 1148,
                     "startColumn": 4,
-                    "startOffset": 99890,
+                    "startOffset": 99916,
                     "endColumn": 117,
-                    "endOffset": 100003
+                    "endOffset": 100029
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7868,10 +7868,10 @@
                 "to": {
                     "startLine": 1149,
                     "startColumn": 4,
-                    "startOffset": 100008,
+                    "startOffset": 100034,
                     "endLine": 1157,
                     "endColumn": 12,
-                    "endOffset": 100541
+                    "endOffset": 100567
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7889,10 +7889,10 @@
                 "to": {
                     "startLine": 1158,
                     "startColumn": 4,
-                    "startOffset": 100546,
+                    "startOffset": 100572,
                     "endLine": 1160,
                     "endColumn": 12,
-                    "endOffset": 100698
+                    "endOffset": 100724
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7910,10 +7910,10 @@
                 "to": {
                     "startLine": 1161,
                     "startColumn": 4,
-                    "startOffset": 100703,
+                    "startOffset": 100729,
                     "endLine": 1163,
                     "endColumn": 12,
-                    "endOffset": 100872
+                    "endOffset": 100898
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7931,10 +7931,10 @@
                 "to": {
                     "startLine": 1164,
                     "startColumn": 4,
-                    "startOffset": 100877,
+                    "startOffset": 100903,
                     "endLine": 1168,
                     "endColumn": 12,
-                    "endOffset": 101192
+                    "endOffset": 101218
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7952,10 +7952,10 @@
                 "to": {
                     "startLine": 1169,
                     "startColumn": 4,
-                    "startOffset": 101197,
+                    "startOffset": 101223,
                     "endLine": 1172,
                     "endColumn": 12,
-                    "endOffset": 101448
+                    "endOffset": 101474
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7973,10 +7973,10 @@
                 "to": {
                     "startLine": 1173,
                     "startColumn": 4,
-                    "startOffset": 101453,
+                    "startOffset": 101479,
                     "endLine": 1176,
                     "endColumn": 12,
-                    "endOffset": 101618
+                    "endOffset": 101644
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -7994,10 +7994,10 @@
                 "to": {
                     "startLine": 1177,
                     "startColumn": 4,
-                    "startOffset": 101623,
+                    "startOffset": 101649,
                     "endLine": 1179,
                     "endColumn": 12,
-                    "endOffset": 101759
+                    "endOffset": 101785
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8015,9 +8015,9 @@
                 "to": {
                     "startLine": 1180,
                     "startColumn": 4,
-                    "startOffset": 101764,
+                    "startOffset": 101790,
                     "endColumn": 63,
-                    "endOffset": 101823
+                    "endOffset": 101849
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8034,10 +8034,10 @@
                 "to": {
                     "startLine": 1181,
                     "startColumn": 4,
-                    "startOffset": 101828,
+                    "startOffset": 101854,
                     "endLine": 1184,
                     "endColumn": 12,
-                    "endOffset": 102105
+                    "endOffset": 102131
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8055,10 +8055,10 @@
                 "to": {
                     "startLine": 1185,
                     "startColumn": 4,
-                    "startOffset": 102110,
+                    "startOffset": 102136,
                     "endLine": 1188,
                     "endColumn": 12,
-                    "endOffset": 102391
+                    "endOffset": 102417
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8076,10 +8076,10 @@
                 "to": {
                     "startLine": 1189,
                     "startColumn": 4,
-                    "startOffset": 102396,
+                    "startOffset": 102422,
                     "endLine": 1198,
                     "endColumn": 12,
-                    "endOffset": 103067
+                    "endOffset": 103093
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8097,10 +8097,10 @@
                 "to": {
                     "startLine": 1199,
                     "startColumn": 4,
-                    "startOffset": 103072,
+                    "startOffset": 103098,
                     "endLine": 1203,
                     "endColumn": 12,
-                    "endOffset": 103331
+                    "endOffset": 103357
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8118,10 +8118,10 @@
                 "to": {
                     "startLine": 1204,
                     "startColumn": 4,
-                    "startOffset": 103336,
+                    "startOffset": 103362,
                     "endLine": 1210,
                     "endColumn": 12,
-                    "endOffset": 103669
+                    "endOffset": 103695
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8139,10 +8139,10 @@
                 "to": {
                     "startLine": 1211,
                     "startColumn": 4,
-                    "startOffset": 103674,
+                    "startOffset": 103700,
                     "endLine": 1216,
                     "endColumn": 12,
-                    "endOffset": 104022
+                    "endOffset": 104048
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8160,9 +8160,9 @@
                 "to": {
                     "startLine": 1217,
                     "startColumn": 4,
-                    "startOffset": 104027,
+                    "startOffset": 104053,
                     "endColumn": 93,
-                    "endOffset": 104116
+                    "endOffset": 104142
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8179,10 +8179,10 @@
                 "to": {
                     "startLine": 1218,
                     "startColumn": 4,
-                    "startOffset": 104121,
+                    "startOffset": 104147,
                     "endLine": 1220,
                     "endColumn": 12,
-                    "endOffset": 104302
+                    "endOffset": 104328
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8200,10 +8200,10 @@
                 "to": {
                     "startLine": 1221,
                     "startColumn": 4,
-                    "startOffset": 104307,
+                    "startOffset": 104333,
                     "endLine": 1224,
                     "endColumn": 12,
-                    "endOffset": 104608
+                    "endOffset": 104634
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8221,10 +8221,10 @@
                 "to": {
                     "startLine": 1225,
                     "startColumn": 4,
-                    "startOffset": 104613,
+                    "startOffset": 104639,
                     "endLine": 1229,
                     "endColumn": 12,
-                    "endOffset": 104870
+                    "endOffset": 104896
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8242,10 +8242,10 @@
                 "to": {
                     "startLine": 1230,
                     "startColumn": 4,
-                    "startOffset": 104875,
+                    "startOffset": 104901,
                     "endLine": 1231,
                     "endColumn": 12,
-                    "endOffset": 104995
+                    "endOffset": 105021
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8263,10 +8263,10 @@
                 "to": {
                     "startLine": 1232,
                     "startColumn": 4,
-                    "startOffset": 105000,
+                    "startOffset": 105026,
                     "endLine": 1233,
                     "endColumn": 12,
-                    "endOffset": 105122
+                    "endOffset": 105148
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8284,10 +8284,10 @@
                 "to": {
                     "startLine": 1234,
                     "startColumn": 4,
-                    "startOffset": 105127,
+                    "startOffset": 105153,
                     "endLine": 1236,
                     "endColumn": 12,
-                    "endOffset": 105361
+                    "endOffset": 105387
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8305,10 +8305,10 @@
                 "to": {
                     "startLine": 1237,
                     "startColumn": 4,
-                    "startOffset": 105366,
+                    "startOffset": 105392,
                     "endLine": 1239,
                     "endColumn": 12,
-                    "endOffset": 105572
+                    "endOffset": 105598
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8326,10 +8326,10 @@
                 "to": {
                     "startLine": 1240,
                     "startColumn": 4,
-                    "startOffset": 105577,
+                    "startOffset": 105603,
                     "endLine": 1241,
                     "endColumn": 12,
-                    "endOffset": 105691
+                    "endOffset": 105717
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8347,10 +8347,10 @@
                 "to": {
                     "startLine": 1242,
                     "startColumn": 4,
-                    "startOffset": 105696,
+                    "startOffset": 105722,
                     "endLine": 1245,
                     "endColumn": 12,
-                    "endOffset": 105884
+                    "endOffset": 105910
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8368,10 +8368,10 @@
                 "to": {
                     "startLine": 1246,
                     "startColumn": 4,
-                    "startOffset": 105889,
+                    "startOffset": 105915,
                     "endLine": 1248,
                     "endColumn": 12,
-                    "endOffset": 106061
+                    "endOffset": 106087
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8389,10 +8389,10 @@
                 "to": {
                     "startLine": 1249,
                     "startColumn": 4,
-                    "startOffset": 106066,
+                    "startOffset": 106092,
                     "endLine": 1255,
                     "endColumn": 12,
-                    "endOffset": 106516
+                    "endOffset": 106542
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8410,10 +8410,10 @@
                 "to": {
                     "startLine": 1256,
                     "startColumn": 4,
-                    "startOffset": 106521,
+                    "startOffset": 106547,
                     "endLine": 1258,
                     "endColumn": 12,
-                    "endOffset": 106697
+                    "endOffset": 106723
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8431,10 +8431,10 @@
                 "to": {
                     "startLine": 1259,
                     "startColumn": 4,
-                    "startOffset": 106702,
+                    "startOffset": 106728,
                     "endLine": 1261,
                     "endColumn": 12,
-                    "endOffset": 106819
+                    "endOffset": 106845
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8452,10 +8452,10 @@
                 "to": {
                     "startLine": 1262,
                     "startColumn": 4,
-                    "startOffset": 106824,
+                    "startOffset": 106850,
                     "endLine": 1265,
                     "endColumn": 12,
-                    "endOffset": 107078
+                    "endOffset": 107104
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8473,10 +8473,10 @@
                 "to": {
                     "startLine": 1266,
                     "startColumn": 4,
-                    "startOffset": 107083,
+                    "startOffset": 107109,
                     "endLine": 1267,
                     "endColumn": 12,
-                    "endOffset": 107191
+                    "endOffset": 107217
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8494,10 +8494,10 @@
                 "to": {
                     "startLine": 1268,
                     "startColumn": 4,
-                    "startOffset": 107196,
+                    "startOffset": 107222,
                     "endLine": 1271,
                     "endColumn": 12,
-                    "endOffset": 107378
+                    "endOffset": 107404
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8515,10 +8515,10 @@
                 "to": {
                     "startLine": 1272,
                     "startColumn": 4,
-                    "startOffset": 107383,
+                    "startOffset": 107409,
                     "endLine": 1273,
                     "endColumn": 12,
-                    "endOffset": 107480
+                    "endOffset": 107506
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8536,10 +8536,10 @@
                 "to": {
                     "startLine": 1274,
                     "startColumn": 4,
-                    "startOffset": 107485,
+                    "startOffset": 107511,
                     "endLine": 1279,
                     "endColumn": 12,
-                    "endOffset": 107924
+                    "endOffset": 107950
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8557,10 +8557,10 @@
                 "to": {
                     "startLine": 1280,
                     "startColumn": 4,
-                    "startOffset": 107929,
+                    "startOffset": 107955,
                     "endLine": 1281,
                     "endColumn": 12,
-                    "endOffset": 108048
+                    "endOffset": 108074
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8578,10 +8578,10 @@
                 "to": {
                     "startLine": 1282,
                     "startColumn": 4,
-                    "startOffset": 108053,
+                    "startOffset": 108079,
                     "endLine": 1285,
                     "endColumn": 12,
-                    "endOffset": 108323
+                    "endOffset": 108349
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8599,10 +8599,10 @@
                 "to": {
                     "startLine": 1286,
                     "startColumn": 4,
-                    "startOffset": 108328,
+                    "startOffset": 108354,
                     "endLine": 1293,
                     "endColumn": 12,
-                    "endOffset": 108831
+                    "endOffset": 108857
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8620,10 +8620,10 @@
                 "to": {
                     "startLine": 1294,
                     "startColumn": 4,
-                    "startOffset": 108836,
+                    "startOffset": 108862,
                     "endLine": 1301,
                     "endColumn": 12,
-                    "endOffset": 109327
+                    "endOffset": 109353
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8641,10 +8641,10 @@
                 "to": {
                     "startLine": 1302,
                     "startColumn": 4,
-                    "startOffset": 109332,
+                    "startOffset": 109358,
                     "endLine": 1313,
                     "endColumn": 12,
-                    "endOffset": 110204
+                    "endOffset": 110230
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8662,10 +8662,10 @@
                 "to": {
                     "startLine": 1314,
                     "startColumn": 4,
-                    "startOffset": 110209,
+                    "startOffset": 110235,
                     "endLine": 1319,
                     "endColumn": 12,
-                    "endOffset": 110498
+                    "endOffset": 110524
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8683,10 +8683,10 @@
                 "to": {
                     "startLine": 1320,
                     "startColumn": 4,
-                    "startOffset": 110503,
+                    "startOffset": 110529,
                     "endLine": 1328,
                     "endColumn": 12,
-                    "endOffset": 111068
+                    "endOffset": 111094
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8704,10 +8704,10 @@
                 "to": {
                     "startLine": 1329,
                     "startColumn": 4,
-                    "startOffset": 111073,
+                    "startOffset": 111099,
                     "endLine": 1331,
                     "endColumn": 12,
-                    "endOffset": 111217
+                    "endOffset": 111243
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8725,10 +8725,10 @@
                 "to": {
                     "startLine": 1332,
                     "startColumn": 4,
-                    "startOffset": 111222,
+                    "startOffset": 111248,
                     "endLine": 1342,
                     "endColumn": 12,
-                    "endOffset": 111949
+                    "endOffset": 111975
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8746,10 +8746,10 @@
                 "to": {
                     "startLine": 1343,
                     "startColumn": 4,
-                    "startOffset": 111954,
+                    "startOffset": 111980,
                     "endLine": 1345,
                     "endColumn": 12,
-                    "endOffset": 112121
+                    "endOffset": 112147
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8767,10 +8767,10 @@
                 "to": {
                     "startLine": 1346,
                     "startColumn": 4,
-                    "startOffset": 112126,
+                    "startOffset": 112152,
                     "endLine": 1350,
                     "endColumn": 12,
-                    "endOffset": 112457
+                    "endOffset": 112483
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8788,10 +8788,10 @@
                 "to": {
                     "startLine": 1351,
                     "startColumn": 4,
-                    "startOffset": 112462,
+                    "startOffset": 112488,
                     "endLine": 1364,
                     "endColumn": 12,
-                    "endOffset": 113515
+                    "endOffset": 113541
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8809,10 +8809,10 @@
                 "to": {
                     "startLine": 1365,
                     "startColumn": 4,
-                    "startOffset": 113520,
+                    "startOffset": 113546,
                     "endLine": 1369,
                     "endColumn": 12,
-                    "endOffset": 113793
+                    "endOffset": 113819
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8830,10 +8830,10 @@
                 "to": {
                     "startLine": 1370,
                     "startColumn": 4,
-                    "startOffset": 113798,
+                    "startOffset": 113824,
                     "endLine": 1407,
                     "endColumn": 12,
-                    "endOffset": 116655
+                    "endOffset": 116681
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8851,10 +8851,10 @@
                 "to": {
                     "startLine": 1408,
                     "startColumn": 4,
-                    "startOffset": 116660,
+                    "startOffset": 116686,
                     "endLine": 1446,
                     "endColumn": 12,
-                    "endOffset": 119657
+                    "endOffset": 119683
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8872,9 +8872,9 @@
                 "to": {
                     "startLine": 1447,
                     "startColumn": 4,
-                    "startOffset": 119662,
+                    "startOffset": 119688,
                     "endColumn": 61,
-                    "endOffset": 119719
+                    "endOffset": 119745
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8891,10 +8891,10 @@
                 "to": {
                     "startLine": 1448,
                     "startColumn": 4,
-                    "startOffset": 119724,
+                    "startOffset": 119750,
                     "endLine": 1457,
                     "endColumn": 12,
-                    "endOffset": 120349
+                    "endOffset": 120375
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8912,10 +8912,10 @@
                 "to": {
                     "startLine": 1458,
                     "startColumn": 4,
-                    "startOffset": 120354,
+                    "startOffset": 120380,
                     "endLine": 1466,
                     "endColumn": 12,
-                    "endOffset": 120963
+                    "endOffset": 120989
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8933,9 +8933,9 @@
                 "to": {
                     "startLine": 1467,
                     "startColumn": 4,
-                    "startOffset": 120968,
+                    "startOffset": 120994,
                     "endColumn": 85,
-                    "endOffset": 121049
+                    "endOffset": 121075
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8952,10 +8952,10 @@
                 "to": {
                     "startLine": 1468,
                     "startColumn": 4,
-                    "startOffset": 121054,
+                    "startOffset": 121080,
                     "endLine": 1469,
                     "endColumn": 12,
-                    "endOffset": 121162
+                    "endOffset": 121188
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8973,10 +8973,10 @@
                 "to": {
                     "startLine": 1470,
                     "startColumn": 4,
-                    "startOffset": 121167,
+                    "startOffset": 121193,
                     "endLine": 1473,
                     "endColumn": 12,
-                    "endOffset": 121391
+                    "endOffset": 121417
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -8994,10 +8994,10 @@
                 "to": {
                     "startLine": 1474,
                     "startColumn": 4,
-                    "startOffset": 121396,
+                    "startOffset": 121422,
                     "endLine": 1476,
                     "endColumn": 12,
-                    "endOffset": 121551
+                    "endOffset": 121577
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9015,10 +9015,10 @@
                 "to": {
                     "startLine": 1477,
                     "startColumn": 4,
-                    "startOffset": 121556,
+                    "startOffset": 121582,
                     "endLine": 1479,
                     "endColumn": 12,
-                    "endOffset": 121703
+                    "endOffset": 121729
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9036,10 +9036,10 @@
                 "to": {
                     "startLine": 1480,
                     "startColumn": 4,
-                    "startOffset": 121708,
+                    "startOffset": 121734,
                     "endLine": 1482,
                     "endColumn": 12,
-                    "endOffset": 121874
+                    "endOffset": 121900
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9057,10 +9057,10 @@
                 "to": {
                     "startLine": 1483,
                     "startColumn": 4,
-                    "startOffset": 121879,
+                    "startOffset": 121905,
                     "endLine": 1485,
                     "endColumn": 12,
-                    "endOffset": 122041
+                    "endOffset": 122067
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9078,10 +9078,10 @@
                 "to": {
                     "startLine": 1486,
                     "startColumn": 4,
-                    "startOffset": 122046,
+                    "startOffset": 122072,
                     "endLine": 1489,
                     "endColumn": 12,
-                    "endOffset": 122284
+                    "endOffset": 122310
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9099,10 +9099,10 @@
                 "to": {
                     "startLine": 1490,
                     "startColumn": 4,
-                    "startOffset": 122289,
+                    "startOffset": 122315,
                     "endLine": 1492,
                     "endColumn": 12,
-                    "endOffset": 122454
+                    "endOffset": 122480
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9120,10 +9120,10 @@
                 "to": {
                     "startLine": 1493,
                     "startColumn": 4,
-                    "startOffset": 122459,
+                    "startOffset": 122485,
                     "endLine": 1495,
                     "endColumn": 12,
-                    "endOffset": 122627
+                    "endOffset": 122653
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9141,10 +9141,10 @@
                 "to": {
                     "startLine": 1496,
                     "startColumn": 4,
-                    "startOffset": 122632,
+                    "startOffset": 122658,
                     "endLine": 1498,
                     "endColumn": 12,
-                    "endOffset": 122798
+                    "endOffset": 122824
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9162,10 +9162,10 @@
                 "to": {
                     "startLine": 1499,
                     "startColumn": 4,
-                    "startOffset": 122803,
+                    "startOffset": 122829,
                     "endLine": 1502,
                     "endColumn": 12,
-                    "endOffset": 123072
+                    "endOffset": 123098
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9183,10 +9183,10 @@
                 "to": {
                     "startLine": 1503,
                     "startColumn": 4,
-                    "startOffset": 123077,
+                    "startOffset": 123103,
                     "endLine": 1505,
                     "endColumn": 12,
-                    "endOffset": 123271
+                    "endOffset": 123297
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9204,10 +9204,10 @@
                 "to": {
                     "startLine": 1506,
                     "startColumn": 4,
-                    "startOffset": 123276,
+                    "startOffset": 123302,
                     "endLine": 1509,
                     "endColumn": 12,
-                    "endOffset": 123476
+                    "endOffset": 123502
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9225,10 +9225,10 @@
                 "to": {
                     "startLine": 1510,
                     "startColumn": 4,
-                    "startOffset": 123481,
+                    "startOffset": 123507,
                     "endLine": 1513,
                     "endColumn": 12,
-                    "endOffset": 123806
+                    "endOffset": 123832
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9246,9 +9246,9 @@
                 "to": {
                     "startLine": 1514,
                     "startColumn": 4,
-                    "startOffset": 123811,
+                    "startOffset": 123837,
                     "endColumn": 83,
-                    "endOffset": 123890
+                    "endOffset": 123916
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9265,9 +9265,9 @@
                 "to": {
                     "startLine": 1515,
                     "startColumn": 4,
-                    "startOffset": 123895,
+                    "startOffset": 123921,
                     "endColumn": 95,
-                    "endOffset": 123986
+                    "endOffset": 124012
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9284,9 +9284,9 @@
                 "to": {
                     "startLine": 1516,
                     "startColumn": 4,
-                    "startOffset": 123991,
+                    "startOffset": 124017,
                     "endColumn": 95,
-                    "endOffset": 124082
+                    "endOffset": 124108
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9303,9 +9303,9 @@
                 "to": {
                     "startLine": 1517,
                     "startColumn": 4,
-                    "startOffset": 124087,
+                    "startOffset": 124113,
                     "endColumn": 97,
-                    "endOffset": 124180
+                    "endOffset": 124206
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9322,9 +9322,9 @@
                 "to": {
                     "startLine": 1518,
                     "startColumn": 4,
-                    "startOffset": 124185,
+                    "startOffset": 124211,
                     "endColumn": 99,
-                    "endOffset": 124280
+                    "endOffset": 124306
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9341,9 +9341,9 @@
                 "to": {
                     "startLine": 1519,
                     "startColumn": 4,
-                    "startOffset": 124285,
+                    "startOffset": 124311,
                     "endColumn": 101,
-                    "endOffset": 124382
+                    "endOffset": 124408
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9360,9 +9360,9 @@
                 "to": {
                     "startLine": 1520,
                     "startColumn": 4,
-                    "startOffset": 124387,
+                    "startOffset": 124413,
                     "endColumn": 101,
-                    "endOffset": 124484
+                    "endOffset": 124510
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9379,9 +9379,9 @@
                 "to": {
                     "startLine": 1521,
                     "startColumn": 4,
-                    "startOffset": 124489,
+                    "startOffset": 124515,
                     "endColumn": 101,
-                    "endOffset": 124586
+                    "endOffset": 124612
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9398,9 +9398,9 @@
                 "to": {
                     "startLine": 1522,
                     "startColumn": 4,
-                    "startOffset": 124591,
+                    "startOffset": 124617,
                     "endColumn": 101,
-                    "endOffset": 124688
+                    "endOffset": 124714
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9417,9 +9417,9 @@
                 "to": {
                     "startLine": 1523,
                     "startColumn": 4,
-                    "startOffset": 124693,
+                    "startOffset": 124719,
                     "endColumn": 101,
-                    "endOffset": 124790
+                    "endOffset": 124816
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9436,9 +9436,9 @@
                 "to": {
                     "startLine": 1524,
                     "startColumn": 4,
-                    "startOffset": 124795,
+                    "startOffset": 124821,
                     "endColumn": 99,
-                    "endOffset": 124890
+                    "endOffset": 124916
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9455,9 +9455,9 @@
                 "to": {
                     "startLine": 1525,
                     "startColumn": 4,
-                    "startOffset": 124895,
+                    "startOffset": 124921,
                     "endColumn": 95,
-                    "endOffset": 124986
+                    "endOffset": 125012
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9474,9 +9474,9 @@
                 "to": {
                     "startLine": 1526,
                     "startColumn": 4,
-                    "startOffset": 124991,
+                    "startOffset": 125017,
                     "endColumn": 111,
-                    "endOffset": 125098
+                    "endOffset": 125124
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9493,9 +9493,9 @@
                 "to": {
                     "startLine": 1527,
                     "startColumn": 4,
-                    "startOffset": 125103,
+                    "startOffset": 125129,
                     "endColumn": 128,
-                    "endOffset": 125227
+                    "endOffset": 125253
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9512,9 +9512,9 @@
                 "to": {
                     "startLine": 1528,
                     "startColumn": 4,
-                    "startOffset": 125232,
+                    "startOffset": 125258,
                     "endColumn": 122,
-                    "endOffset": 125350
+                    "endOffset": 125376
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9531,9 +9531,9 @@
                 "to": {
                     "startLine": 1529,
                     "startColumn": 4,
-                    "startOffset": 125355,
+                    "startOffset": 125381,
                     "endColumn": 130,
-                    "endOffset": 125481
+                    "endOffset": 125507
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9550,9 +9550,9 @@
                 "to": {
                     "startLine": 1530,
                     "startColumn": 4,
-                    "startOffset": 125486,
+                    "startOffset": 125512,
                     "endColumn": 130,
-                    "endOffset": 125612
+                    "endOffset": 125638
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9569,9 +9569,9 @@
                 "to": {
                     "startLine": 1531,
                     "startColumn": 4,
-                    "startOffset": 125617,
+                    "startOffset": 125643,
                     "endColumn": 97,
-                    "endOffset": 125710
+                    "endOffset": 125736
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9588,9 +9588,9 @@
                 "to": {
                     "startLine": 1532,
                     "startColumn": 4,
-                    "startOffset": 125715,
+                    "startOffset": 125741,
                     "endColumn": 113,
-                    "endOffset": 125824
+                    "endOffset": 125850
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9607,9 +9607,9 @@
                 "to": {
                     "startLine": 1533,
                     "startColumn": 4,
-                    "startOffset": 125829,
+                    "startOffset": 125855,
                     "endColumn": 93,
-                    "endOffset": 125918
+                    "endOffset": 125944
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9626,10 +9626,10 @@
                 "to": {
                     "startLine": 1534,
                     "startColumn": 4,
-                    "startOffset": 125923,
+                    "startOffset": 125949,
                     "endLine": 1535,
                     "endColumn": 12,
-                    "endOffset": 126058
+                    "endOffset": 126084
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9647,10 +9647,10 @@
                 "to": {
                     "startLine": 1536,
                     "startColumn": 4,
-                    "startOffset": 126063,
+                    "startOffset": 126089,
                     "endLine": 1537,
                     "endColumn": 12,
-                    "endOffset": 126192
+                    "endOffset": 126218
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9668,9 +9668,9 @@
                 "to": {
                     "startLine": 1538,
                     "startColumn": 4,
-                    "startOffset": 126197,
+                    "startOffset": 126223,
                     "endColumn": 95,
-                    "endOffset": 126288
+                    "endOffset": 126314
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9687,9 +9687,9 @@
                 "to": {
                     "startLine": 1539,
                     "startColumn": 4,
-                    "startOffset": 126293,
+                    "startOffset": 126319,
                     "endColumn": 111,
-                    "endOffset": 126400
+                    "endOffset": 126426
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9706,9 +9706,9 @@
                 "to": {
                     "startLine": 1540,
                     "startColumn": 4,
-                    "startOffset": 126405,
+                    "startOffset": 126431,
                     "endColumn": 99,
-                    "endOffset": 126500
+                    "endOffset": 126526
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9725,9 +9725,9 @@
                 "to": {
                     "startLine": 1541,
                     "startColumn": 4,
-                    "startOffset": 126505,
+                    "startOffset": 126531,
                     "endColumn": 115,
-                    "endOffset": 126616
+                    "endOffset": 126642
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9744,9 +9744,9 @@
                 "to": {
                     "startLine": 1542,
                     "startColumn": 4,
-                    "startOffset": 126621,
+                    "startOffset": 126647,
                     "endColumn": 95,
-                    "endOffset": 126712
+                    "endOffset": 126738
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9763,9 +9763,9 @@
                 "to": {
                     "startLine": 1543,
                     "startColumn": 4,
-                    "startOffset": 126717,
+                    "startOffset": 126743,
                     "endColumn": 111,
-                    "endOffset": 126824
+                    "endOffset": 126850
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9782,10 +9782,10 @@
                 "to": {
                     "startLine": 1544,
                     "startColumn": 4,
-                    "startOffset": 126829,
+                    "startOffset": 126855,
                     "endLine": 1545,
                     "endColumn": 12,
-                    "endOffset": 126964
+                    "endOffset": 126990
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9803,9 +9803,9 @@
                 "to": {
                     "startLine": 1546,
                     "startColumn": 4,
-                    "startOffset": 126969,
+                    "startOffset": 126995,
                     "endColumn": 135,
-                    "endOffset": 127100
+                    "endOffset": 127126
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9822,10 +9822,10 @@
                 "to": {
                     "startLine": 1547,
                     "startColumn": 4,
-                    "startOffset": 127105,
+                    "startOffset": 127131,
                     "endLine": 1548,
                     "endColumn": 12,
-                    "endOffset": 127264
+                    "endOffset": 127290
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9843,9 +9843,9 @@
                 "to": {
                     "startLine": 1549,
                     "startColumn": 4,
-                    "startOffset": 127269,
+                    "startOffset": 127295,
                     "endColumn": 129,
-                    "endOffset": 127394
+                    "endOffset": 127420
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9862,10 +9862,10 @@
                 "to": {
                     "startLine": 1550,
                     "startColumn": 4,
-                    "startOffset": 127399,
+                    "startOffset": 127425,
                     "endLine": 1551,
                     "endColumn": 12,
-                    "endOffset": 127552
+                    "endOffset": 127578
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9883,10 +9883,10 @@
                 "to": {
                     "startLine": 1552,
                     "startColumn": 4,
-                    "startOffset": 127557,
+                    "startOffset": 127583,
                     "endLine": 1553,
                     "endColumn": 12,
-                    "endOffset": 127702
+                    "endOffset": 127728
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9904,9 +9904,9 @@
                 "to": {
                     "startLine": 1554,
                     "startColumn": 4,
-                    "startOffset": 127707,
+                    "startOffset": 127733,
                     "endColumn": 140,
-                    "endOffset": 127843
+                    "endOffset": 127869
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9923,10 +9923,10 @@
                 "to": {
                     "startLine": 1555,
                     "startColumn": 4,
-                    "startOffset": 127848,
+                    "startOffset": 127874,
                     "endLine": 1556,
                     "endColumn": 12,
-                    "endOffset": 127987
+                    "endOffset": 128013
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9944,9 +9944,9 @@
                 "to": {
                     "startLine": 1557,
                     "startColumn": 4,
-                    "startOffset": 127992,
+                    "startOffset": 128018,
                     "endColumn": 134,
-                    "endOffset": 128122
+                    "endOffset": 128148
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9963,9 +9963,9 @@
                 "to": {
                     "startLine": 1558,
                     "startColumn": 4,
-                    "startOffset": 128127,
+                    "startOffset": 128153,
                     "endColumn": 111,
-                    "endOffset": 128234
+                    "endOffset": 128260
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -9982,9 +9982,9 @@
                 "to": {
                     "startLine": 1559,
                     "startColumn": 4,
-                    "startOffset": 128239,
+                    "startOffset": 128265,
                     "endColumn": 127,
-                    "endOffset": 128362
+                    "endOffset": 128388
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10001,10 +10001,10 @@
                 "to": {
                     "startLine": 1560,
                     "startColumn": 4,
-                    "startOffset": 128367,
+                    "startOffset": 128393,
                     "endLine": 1561,
                     "endColumn": 12,
-                    "endOffset": 128498
+                    "endOffset": 128524
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10022,9 +10022,9 @@
                 "to": {
                     "startLine": 1562,
                     "startColumn": 4,
-                    "startOffset": 128503,
+                    "startOffset": 128529,
                     "endColumn": 131,
-                    "endOffset": 128630
+                    "endOffset": 128656
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10041,9 +10041,9 @@
                 "to": {
                     "startLine": 1563,
                     "startColumn": 4,
-                    "startOffset": 128635,
+                    "startOffset": 128661,
                     "endColumn": 129,
-                    "endOffset": 128760
+                    "endOffset": 128786
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10060,9 +10060,9 @@
                 "to": {
                     "startLine": 1564,
                     "startColumn": 4,
-                    "startOffset": 128765,
+                    "startOffset": 128791,
                     "endColumn": 129,
-                    "endOffset": 128890
+                    "endOffset": 128916
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10079,9 +10079,9 @@
                 "to": {
                     "startLine": 1565,
                     "startColumn": 4,
-                    "startOffset": 128895,
+                    "startOffset": 128921,
                     "endColumn": 111,
-                    "endOffset": 129002
+                    "endOffset": 129028
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10098,9 +10098,9 @@
                 "to": {
                     "startLine": 1566,
                     "startColumn": 4,
-                    "startOffset": 129007,
+                    "startOffset": 129033,
                     "endColumn": 139,
-                    "endOffset": 129142
+                    "endOffset": 129168
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10117,9 +10117,9 @@
                 "to": {
                     "startLine": 1567,
                     "startColumn": 4,
-                    "startOffset": 129147,
+                    "startOffset": 129173,
                     "endColumn": 67,
-                    "endOffset": 129210
+                    "endOffset": 129236
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10136,9 +10136,9 @@
                 "to": {
                     "startLine": 1568,
                     "startColumn": 4,
-                    "startOffset": 129215,
+                    "startOffset": 129241,
                     "endColumn": 72,
-                    "endOffset": 129283
+                    "endOffset": 129309
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10155,9 +10155,9 @@
                 "to": {
                     "startLine": 1569,
                     "startColumn": 4,
-                    "startOffset": 129288,
+                    "startOffset": 129314,
                     "endColumn": 73,
-                    "endOffset": 129357
+                    "endOffset": 129383
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10174,9 +10174,9 @@
                 "to": {
                     "startLine": 1570,
                     "startColumn": 4,
-                    "startOffset": 129362,
+                    "startOffset": 129388,
                     "endColumn": 72,
-                    "endOffset": 129430
+                    "endOffset": 129456
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10193,9 +10193,9 @@
                 "to": {
                     "startLine": 1571,
                     "startColumn": 4,
-                    "startOffset": 129435,
+                    "startOffset": 129461,
                     "endColumn": 73,
-                    "endOffset": 129504
+                    "endOffset": 129530
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10212,10 +10212,10 @@
                 "to": {
                     "startLine": 1572,
                     "startColumn": 4,
-                    "startOffset": 129509,
+                    "startOffset": 129535,
                     "endLine": 1573,
                     "endColumn": 12,
-                    "endOffset": 129650
+                    "endOffset": 129676
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10233,10 +10233,10 @@
                 "to": {
                     "startLine": 1574,
                     "startColumn": 4,
-                    "startOffset": 129655,
+                    "startOffset": 129681,
                     "endLine": 1575,
                     "endColumn": 12,
-                    "endOffset": 129794
+                    "endOffset": 129820
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10254,10 +10254,10 @@
                 "to": {
                     "startLine": 1576,
                     "startColumn": 4,
-                    "startOffset": 129799,
+                    "startOffset": 129825,
                     "endLine": 1577,
                     "endColumn": 12,
-                    "endOffset": 129932
+                    "endOffset": 129958
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10275,9 +10275,9 @@
                 "to": {
                     "startLine": 1578,
                     "startColumn": 4,
-                    "startOffset": 129937,
+                    "startOffset": 129963,
                     "endColumn": 65,
-                    "endOffset": 129998
+                    "endOffset": 130024
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10294,9 +10294,9 @@
                 "to": {
                     "startLine": 1579,
                     "startColumn": 4,
-                    "startOffset": 130003,
+                    "startOffset": 130029,
                     "endColumn": 89,
-                    "endOffset": 130088
+                    "endOffset": 130114
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10313,9 +10313,9 @@
                 "to": {
                     "startLine": 1580,
                     "startColumn": 4,
-                    "startOffset": 130093,
+                    "startOffset": 130119,
                     "endColumn": 75,
-                    "endOffset": 130164
+                    "endOffset": 130190
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10332,9 +10332,9 @@
                 "to": {
                     "startLine": 1581,
                     "startColumn": 4,
-                    "startOffset": 130169,
+                    "startOffset": 130195,
                     "endColumn": 103,
-                    "endOffset": 130268
+                    "endOffset": 130294
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10351,9 +10351,9 @@
                 "to": {
                     "startLine": 1582,
                     "startColumn": 4,
-                    "startOffset": 130273,
+                    "startOffset": 130299,
                     "endColumn": 89,
-                    "endOffset": 130358
+                    "endOffset": 130384
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10370,9 +10370,9 @@
                 "to": {
                     "startLine": 1583,
                     "startColumn": 4,
-                    "startOffset": 130363,
+                    "startOffset": 130389,
                     "endColumn": 101,
-                    "endOffset": 130460
+                    "endOffset": 130486
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10389,9 +10389,9 @@
                 "to": {
                     "startLine": 1584,
                     "startColumn": 4,
-                    "startOffset": 130465,
+                    "startOffset": 130491,
                     "endColumn": 107,
-                    "endOffset": 130568
+                    "endOffset": 130594
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10408,9 +10408,9 @@
                 "to": {
                     "startLine": 1585,
                     "startColumn": 4,
-                    "startOffset": 130573,
+                    "startOffset": 130599,
                     "endColumn": 107,
-                    "endOffset": 130676
+                    "endOffset": 130702
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10427,9 +10427,9 @@
                 "to": {
                     "startLine": 1586,
                     "startColumn": 4,
-                    "startOffset": 130681,
+                    "startOffset": 130707,
                     "endColumn": 99,
-                    "endOffset": 130776
+                    "endOffset": 130802
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10446,9 +10446,9 @@
                 "to": {
                     "startLine": 1587,
                     "startColumn": 4,
-                    "startOffset": 130781,
+                    "startOffset": 130807,
                     "endColumn": 79,
-                    "endOffset": 130856
+                    "endOffset": 130882
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10465,9 +10465,9 @@
                 "to": {
                     "startLine": 1588,
                     "startColumn": 4,
-                    "startOffset": 130861,
+                    "startOffset": 130887,
                     "endColumn": 91,
-                    "endOffset": 130948
+                    "endOffset": 130974
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10484,9 +10484,9 @@
                 "to": {
                     "startLine": 1589,
                     "startColumn": 4,
-                    "startOffset": 130953,
+                    "startOffset": 130979,
                     "endColumn": 97,
-                    "endOffset": 131046
+                    "endOffset": 131072
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10503,10 +10503,10 @@
                 "to": {
                     "startLine": 1590,
                     "startColumn": 4,
-                    "startOffset": 131051,
+                    "startOffset": 131077,
                     "endLine": 1591,
                     "endColumn": 12,
-                    "endOffset": 131156
+                    "endOffset": 131182
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10524,9 +10524,9 @@
                 "to": {
                     "startLine": 1592,
                     "startColumn": 4,
-                    "startOffset": 131161,
+                    "startOffset": 131187,
                     "endColumn": 77,
-                    "endOffset": 131234
+                    "endOffset": 131260
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10543,9 +10543,9 @@
                 "to": {
                     "startLine": 1593,
                     "startColumn": 4,
-                    "startOffset": 131239,
+                    "startOffset": 131265,
                     "endColumn": 105,
-                    "endOffset": 131340
+                    "endOffset": 131366
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10562,9 +10562,9 @@
                 "to": {
                     "startLine": 1594,
                     "startColumn": 4,
-                    "startOffset": 131345,
+                    "startOffset": 131371,
                     "endColumn": 91,
-                    "endOffset": 131432
+                    "endOffset": 131458
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10581,9 +10581,9 @@
                 "to": {
                     "startLine": 1595,
                     "startColumn": 4,
-                    "startOffset": 131437,
+                    "startOffset": 131463,
                     "endColumn": 103,
-                    "endOffset": 131536
+                    "endOffset": 131562
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10600,9 +10600,9 @@
                 "to": {
                     "startLine": 1596,
                     "startColumn": 4,
-                    "startOffset": 131541,
+                    "startOffset": 131567,
                     "endColumn": 109,
-                    "endOffset": 131646
+                    "endOffset": 131672
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10619,10 +10619,10 @@
                 "to": {
                     "startLine": 1597,
                     "startColumn": 4,
-                    "startOffset": 131651,
+                    "startOffset": 131677,
                     "endLine": 1598,
                     "endColumn": 12,
-                    "endOffset": 131768
+                    "endOffset": 131794
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10640,10 +10640,10 @@
                 "to": {
                     "startLine": 1599,
                     "startColumn": 4,
-                    "startOffset": 131773,
+                    "startOffset": 131799,
                     "endLine": 1602,
                     "endColumn": 12,
-                    "endOffset": 131931
+                    "endOffset": 131957
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10661,10 +10661,10 @@
                 "to": {
                     "startLine": 1603,
                     "startColumn": 4,
-                    "startOffset": 131936,
+                    "startOffset": 131962,
                     "endLine": 1606,
                     "endColumn": 12,
-                    "endOffset": 132088
+                    "endOffset": 132114
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10682,10 +10682,10 @@
                 "to": {
                     "startLine": 1607,
                     "startColumn": 4,
-                    "startOffset": 132093,
+                    "startOffset": 132119,
                     "endLine": 1611,
                     "endColumn": 12,
-                    "endOffset": 132390
+                    "endOffset": 132416
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.0.2/res/values/values.xml",
@@ -10703,9 +10703,9 @@
                 "to": {
                     "startLine": 1612,
                     "startColumn": 4,
-                    "startOffset": 132395,
+                    "startOffset": 132421,
                     "endColumn": 95,
-                    "endOffset": 132486
+                    "endOffset": 132512
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.0.2/res/values/values.xml",
@@ -10722,10 +10722,10 @@
                 "to": {
                     "startLine": 1613,
                     "startColumn": 4,
-                    "startOffset": 132491,
+                    "startOffset": 132517,
                     "endLine": 1620,
                     "endColumn": 10,
-                    "endOffset": 132910
+                    "endOffset": 132936
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.2/res/values/values.xml",
@@ -10743,10 +10743,10 @@
                 "to": {
                     "startLine": 1621,
                     "startColumn": 4,
-                    "startOffset": 132915,
+                    "startOffset": 132941,
                     "endLine": 1631,
                     "endColumn": 12,
-                    "endOffset": 133664
+                    "endOffset": 133690
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values/values.xml",
@@ -10764,10 +10764,10 @@
                 "to": {
                     "startLine": 1632,
                     "startColumn": 4,
-                    "startOffset": 133669,
+                    "startOffset": 133695,
                     "endLine": 1642,
                     "endColumn": 12,
-                    "endOffset": 134413
+                    "endOffset": 134439
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values/values.xml",
@@ -10785,9 +10785,9 @@
                 "to": {
                     "startLine": 1643,
                     "startColumn": 4,
-                    "startOffset": 134418,
+                    "startOffset": 134444,
                     "endColumn": 79,
-                    "endOffset": 134493
+                    "endOffset": 134519
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10804,9 +10804,9 @@
                 "to": {
                     "startLine": 1644,
                     "startColumn": 4,
-                    "startOffset": 134498,
+                    "startOffset": 134524,
                     "endColumn": 99,
-                    "endOffset": 134593
+                    "endOffset": 134619
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10823,9 +10823,9 @@
                 "to": {
                     "startLine": 1645,
                     "startColumn": 4,
-                    "startOffset": 134598,
+                    "startOffset": 134624,
                     "endColumn": 89,
-                    "endOffset": 134683
+                    "endOffset": 134709
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10842,9 +10842,9 @@
                 "to": {
                     "startLine": 1646,
                     "startColumn": 4,
-                    "startOffset": 134688,
+                    "startOffset": 134714,
                     "endColumn": 109,
-                    "endOffset": 134793
+                    "endOffset": 134819
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10861,9 +10861,9 @@
                 "to": {
                     "startLine": 1647,
                     "startColumn": 4,
-                    "startOffset": 134798,
+                    "startOffset": 134824,
                     "endColumn": 93,
-                    "endOffset": 134887
+                    "endOffset": 134913
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10880,9 +10880,9 @@
                 "to": {
                     "startLine": 1648,
                     "startColumn": 4,
-                    "startOffset": 134892,
+                    "startOffset": 134918,
                     "endColumn": 105,
-                    "endOffset": 134993
+                    "endOffset": 135019
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10899,9 +10899,9 @@
                 "to": {
                     "startLine": 1649,
                     "startColumn": 4,
-                    "startOffset": 134998,
+                    "startOffset": 135024,
                     "endColumn": 91,
-                    "endOffset": 135085
+                    "endOffset": 135111
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -10918,10 +10918,10 @@
                 "to": {
                     "startLine": 1650,
                     "startColumn": 4,
-                    "startOffset": 135090,
+                    "startOffset": 135116,
                     "endLine": 1657,
                     "endColumn": 12,
-                    "endOffset": 135614
+                    "endOffset": 135640
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.0.2/res/values/values.xml",
@@ -10939,10 +10939,10 @@
                 "to": {
                     "startLine": 1658,
                     "startColumn": 4,
-                    "startOffset": 135619,
+                    "startOffset": 135645,
                     "endLine": 1660,
                     "endColumn": 12,
-                    "endOffset": 135798
+                    "endOffset": 135824
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.0.2/res/values/values.xml",
@@ -10960,10 +10960,10 @@
                 "to": {
                     "startLine": 1661,
                     "startColumn": 4,
-                    "startOffset": 135803,
+                    "startOffset": 135829,
                     "endLine": 1668,
                     "endColumn": 12,
-                    "endOffset": 136327
+                    "endOffset": 136353
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.0.2/res/values/values.xml",
@@ -10981,10 +10981,10 @@
                 "to": {
                     "startLine": 1669,
                     "startColumn": 4,
-                    "startOffset": 136332,
+                    "startOffset": 136358,
                     "endLine": 1681,
                     "endColumn": 12,
-                    "endOffset": 137331
+                    "endOffset": 137357
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.0.2/res/values/values.xml",
@@ -11002,10 +11002,10 @@
                 "to": {
                     "startLine": 1682,
                     "startColumn": 4,
-                    "startOffset": 137336,
+                    "startOffset": 137362,
                     "endLine": 1683,
                     "endColumn": 12,
-                    "endOffset": 137431
+                    "endOffset": 137457
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11023,10 +11023,10 @@
                 "to": {
                     "startLine": 1684,
                     "startColumn": 4,
-                    "startOffset": 137436,
+                    "startOffset": 137462,
                     "endLine": 1685,
                     "endColumn": 12,
-                    "endOffset": 137543
+                    "endOffset": 137569
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11044,10 +11044,10 @@
                 "to": {
                     "startLine": 1686,
                     "startColumn": 4,
-                    "startOffset": 137548,
+                    "startOffset": 137574,
                     "endLine": 1687,
                     "endColumn": 12,
-                    "endOffset": 137657
+                    "endOffset": 137683
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11065,10 +11065,10 @@
                 "to": {
                     "startLine": 1688,
                     "startColumn": 4,
-                    "startOffset": 137662,
+                    "startOffset": 137688,
                     "endLine": 1689,
                     "endColumn": 12,
-                    "endOffset": 137773
+                    "endOffset": 137799
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11086,10 +11086,10 @@
                 "to": {
                     "startLine": 1690,
                     "startColumn": 4,
-                    "startOffset": 137778,
+                    "startOffset": 137804,
                     "endLine": 1691,
                     "endColumn": 12,
-                    "endOffset": 137889
+                    "endOffset": 137915
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11107,9 +11107,9 @@
                 "to": {
                     "startLine": 1692,
                     "startColumn": 4,
-                    "startOffset": 137894,
+                    "startOffset": 137920,
                     "endColumn": 93,
-                    "endOffset": 137983
+                    "endOffset": 138009
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11126,9 +11126,9 @@
                 "to": {
                     "startLine": 1693,
                     "startColumn": 4,
-                    "startOffset": 137988,
+                    "startOffset": 138014,
                     "endColumn": 113,
-                    "endOffset": 138097
+                    "endOffset": 138123
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11145,9 +11145,9 @@
                 "to": {
                     "startLine": 1694,
                     "startColumn": 4,
-                    "startOffset": 138102,
+                    "startOffset": 138128,
                     "endColumn": 111,
-                    "endOffset": 138209
+                    "endOffset": 138235
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11164,10 +11164,10 @@
                 "to": {
                     "startLine": 1695,
                     "startColumn": 4,
-                    "startOffset": 138214,
+                    "startOffset": 138240,
                     "endLine": 1696,
                     "endColumn": 12,
-                    "endOffset": 138311
+                    "endOffset": 138337
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11185,10 +11185,10 @@
                 "to": {
                     "startLine": 1697,
                     "startColumn": 4,
-                    "startOffset": 138316,
+                    "startOffset": 138342,
                     "endLine": 1698,
                     "endColumn": 12,
-                    "endOffset": 138431
+                    "endOffset": 138457
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11206,10 +11206,10 @@
                 "to": {
                     "startLine": 1699,
                     "startColumn": 4,
-                    "startOffset": 138436,
+                    "startOffset": 138462,
                     "endLine": 1700,
                     "endColumn": 12,
-                    "endOffset": 138553
+                    "endOffset": 138579
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11227,9 +11227,9 @@
                 "to": {
                     "startLine": 1701,
                     "startColumn": 4,
-                    "startOffset": 138558,
+                    "startOffset": 138584,
                     "endColumn": 81,
-                    "endOffset": 138635
+                    "endOffset": 138661
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11246,9 +11246,9 @@
                 "to": {
                     "startLine": 1702,
                     "startColumn": 4,
-                    "startOffset": 138640,
+                    "startOffset": 138666,
                     "endColumn": 103,
-                    "endOffset": 138739
+                    "endOffset": 138765
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11265,9 +11265,9 @@
                 "to": {
                     "startLine": 1703,
                     "startColumn": 4,
-                    "startOffset": 138744,
+                    "startOffset": 138770,
                     "endColumn": 119,
-                    "endOffset": 138859
+                    "endOffset": 138885
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11284,9 +11284,9 @@
                 "to": {
                     "startLine": 1704,
                     "startColumn": 4,
-                    "startOffset": 138864,
+                    "startOffset": 138890,
                     "endColumn": 125,
-                    "endOffset": 138985
+                    "endOffset": 139011
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11303,9 +11303,9 @@
                 "to": {
                     "startLine": 1705,
                     "startColumn": 4,
-                    "startOffset": 138990,
+                    "startOffset": 139016,
                     "endColumn": 97,
-                    "endOffset": 139083
+                    "endOffset": 139109
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11322,9 +11322,9 @@
                 "to": {
                     "startLine": 1706,
                     "startColumn": 4,
-                    "startOffset": 139088,
+                    "startOffset": 139114,
                     "endColumn": 93,
-                    "endOffset": 139177
+                    "endOffset": 139203
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11341,9 +11341,9 @@
                 "to": {
                     "startLine": 1707,
                     "startColumn": 4,
-                    "startOffset": 139182,
+                    "startOffset": 139208,
                     "endColumn": 87,
-                    "endOffset": 139265
+                    "endOffset": 139291
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11360,9 +11360,9 @@
                 "to": {
                     "startLine": 1708,
                     "startColumn": 4,
-                    "startOffset": 139270,
+                    "startOffset": 139296,
                     "endColumn": 111,
-                    "endOffset": 139377
+                    "endOffset": 139403
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11379,9 +11379,9 @@
                 "to": {
                     "startLine": 1709,
                     "startColumn": 4,
-                    "startOffset": 139382,
+                    "startOffset": 139408,
                     "endColumn": 115,
-                    "endOffset": 139493
+                    "endOffset": 139519
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11398,9 +11398,9 @@
                 "to": {
                     "startLine": 1710,
                     "startColumn": 4,
-                    "startOffset": 139498,
+                    "startOffset": 139524,
                     "endColumn": 121,
-                    "endOffset": 139615
+                    "endOffset": 139641
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11417,9 +11417,9 @@
                 "to": {
                     "startLine": 1711,
                     "startColumn": 4,
-                    "startOffset": 139620,
+                    "startOffset": 139646,
                     "endColumn": 111,
-                    "endOffset": 139727
+                    "endOffset": 139753
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11436,10 +11436,10 @@
                 "to": {
                     "startLine": 1712,
                     "startColumn": 4,
-                    "startOffset": 139732,
+                    "startOffset": 139758,
                     "endLine": 1714,
                     "endColumn": 12,
-                    "endOffset": 139902
+                    "endOffset": 139928
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11457,9 +11457,9 @@
                 "to": {
                     "startLine": 1715,
                     "startColumn": 4,
-                    "startOffset": 139907,
+                    "startOffset": 139933,
                     "endColumn": 115,
-                    "endOffset": 140018
+                    "endOffset": 140044
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11476,9 +11476,9 @@
                 "to": {
                     "startLine": 1716,
                     "startColumn": 4,
-                    "startOffset": 140023,
+                    "startOffset": 140049,
                     "endColumn": 85,
-                    "endOffset": 140104
+                    "endOffset": 140130
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11495,9 +11495,9 @@
                 "to": {
                     "startLine": 1717,
                     "startColumn": 4,
-                    "startOffset": 140109,
+                    "startOffset": 140135,
                     "endColumn": 91,
-                    "endOffset": 140196
+                    "endOffset": 140222
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11514,10 +11514,10 @@
                 "to": {
                     "startLine": 1718,
                     "startColumn": 4,
-                    "startOffset": 140201,
+                    "startOffset": 140227,
                     "endLine": 1719,
                     "endColumn": 12,
-                    "endOffset": 140308
+                    "endOffset": 140334
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11535,10 +11535,10 @@
                 "to": {
                     "startLine": 1720,
                     "startColumn": 4,
-                    "startOffset": 140313,
+                    "startOffset": 140339,
                     "endLine": 1721,
                     "endColumn": 12,
-                    "endOffset": 140432
+                    "endOffset": 140458
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11556,9 +11556,9 @@
                 "to": {
                     "startLine": 1722,
                     "startColumn": 4,
-                    "startOffset": 140437,
+                    "startOffset": 140463,
                     "endColumn": 66,
-                    "endOffset": 140499
+                    "endOffset": 140525
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11575,10 +11575,10 @@
                 "to": {
                     "startLine": 1723,
                     "startColumn": 4,
-                    "startOffset": 140504,
+                    "startOffset": 140530,
                     "endLine": 1724,
                     "endColumn": 12,
-                    "endOffset": 140625
+                    "endOffset": 140651
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11596,9 +11596,9 @@
                 "to": {
                     "startLine": 1725,
                     "startColumn": 4,
-                    "startOffset": 140630,
+                    "startOffset": 140656,
                     "endColumn": 67,
-                    "endOffset": 140693
+                    "endOffset": 140719
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11615,10 +11615,10 @@
                 "to": {
                     "startLine": 1726,
                     "startColumn": 4,
-                    "startOffset": 140698,
+                    "startOffset": 140724,
                     "endLine": 1727,
                     "endColumn": 12,
-                    "endOffset": 140821
+                    "endOffset": 140847
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11636,10 +11636,10 @@
                 "to": {
                     "startLine": 1728,
                     "startColumn": 4,
-                    "startOffset": 140826,
+                    "startOffset": 140852,
                     "endLine": 1729,
                     "endColumn": 12,
-                    "endOffset": 140965
+                    "endOffset": 140991
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11657,10 +11657,10 @@
                 "to": {
                     "startLine": 1730,
                     "startColumn": 4,
-                    "startOffset": 140970,
+                    "startOffset": 140996,
                     "endLine": 1731,
                     "endColumn": 12,
-                    "endOffset": 141093
+                    "endOffset": 141119
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11678,9 +11678,9 @@
                 "to": {
                     "startLine": 1732,
                     "startColumn": 4,
-                    "startOffset": 141098,
+                    "startOffset": 141124,
                     "endColumn": 68,
-                    "endOffset": 141162
+                    "endOffset": 141188
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11697,9 +11697,9 @@
                 "to": {
                     "startLine": 1733,
                     "startColumn": 4,
-                    "startOffset": 141167,
+                    "startOffset": 141193,
                     "endColumn": 94,
-                    "endOffset": 141257
+                    "endOffset": 141283
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11716,9 +11716,9 @@
                 "to": {
                     "startLine": 1734,
                     "startColumn": 4,
-                    "startOffset": 141262,
+                    "startOffset": 141288,
                     "endColumn": 114,
-                    "endOffset": 141372
+                    "endOffset": 141398
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11735,9 +11735,9 @@
                 "to": {
                     "startLine": 1735,
                     "startColumn": 4,
-                    "startOffset": 141377,
+                    "startOffset": 141403,
                     "endColumn": 112,
-                    "endOffset": 141485
+                    "endOffset": 141511
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11754,9 +11754,9 @@
                 "to": {
                     "startLine": 1736,
                     "startColumn": 4,
-                    "startOffset": 141490,
+                    "startOffset": 141516,
                     "endColumn": 98,
-                    "endOffset": 141584
+                    "endOffset": 141610
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11773,9 +11773,9 @@
                 "to": {
                     "startLine": 1737,
                     "startColumn": 4,
-                    "startOffset": 141589,
+                    "startOffset": 141615,
                     "endColumn": 108,
-                    "endOffset": 141693
+                    "endOffset": 141719
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11792,9 +11792,9 @@
                 "to": {
                     "startLine": 1738,
                     "startColumn": 4,
-                    "startOffset": 141698,
+                    "startOffset": 141724,
                     "endColumn": 110,
-                    "endOffset": 141804
+                    "endOffset": 141830
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11811,9 +11811,9 @@
                 "to": {
                     "startLine": 1739,
                     "startColumn": 4,
-                    "startOffset": 141809,
+                    "startOffset": 141835,
                     "endColumn": 110,
-                    "endOffset": 141915
+                    "endOffset": 141941
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11830,9 +11830,9 @@
                 "to": {
                     "startLine": 1740,
                     "startColumn": 4,
-                    "startOffset": 141920,
+                    "startOffset": 141946,
                     "endColumn": 100,
-                    "endOffset": 142016
+                    "endOffset": 142042
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11849,9 +11849,9 @@
                 "to": {
                     "startLine": 1741,
                     "startColumn": 4,
-                    "startOffset": 142021,
+                    "startOffset": 142047,
                     "endColumn": 104,
-                    "endOffset": 142121
+                    "endOffset": 142147
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11868,9 +11868,9 @@
                 "to": {
                     "startLine": 1742,
                     "startColumn": 4,
-                    "startOffset": 142126,
+                    "startOffset": 142152,
                     "endColumn": 99,
-                    "endOffset": 142221
+                    "endOffset": 142247
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11887,10 +11887,10 @@
                 "to": {
                     "startLine": 1743,
                     "startColumn": 4,
-                    "startOffset": 142226,
+                    "startOffset": 142252,
                     "endLine": 1744,
                     "endColumn": 12,
-                    "endOffset": 142351
+                    "endOffset": 142377
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11908,9 +11908,9 @@
                 "to": {
                     "startLine": 1745,
                     "startColumn": 4,
-                    "startOffset": 142356,
+                    "startOffset": 142382,
                     "endColumn": 90,
-                    "endOffset": 142442
+                    "endOffset": 142468
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11927,9 +11927,9 @@
                 "to": {
                     "startLine": 1746,
                     "startColumn": 4,
-                    "startOffset": 142447,
+                    "startOffset": 142473,
                     "endColumn": 122,
-                    "endOffset": 142565
+                    "endOffset": 142591
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11946,9 +11946,9 @@
                 "to": {
                     "startLine": 1747,
                     "startColumn": 4,
-                    "startOffset": 142570,
+                    "startOffset": 142596,
                     "endColumn": 93,
-                    "endOffset": 142659
+                    "endOffset": 142685
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11965,10 +11965,10 @@
                 "to": {
                     "startLine": 1748,
                     "startColumn": 4,
-                    "startOffset": 142664,
+                    "startOffset": 142690,
                     "endLine": 1749,
                     "endColumn": 12,
-                    "endOffset": 142771
+                    "endOffset": 142797
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -11986,9 +11986,9 @@
                 "to": {
                     "startLine": 1750,
                     "startColumn": 4,
-                    "startOffset": 142776,
+                    "startOffset": 142802,
                     "endColumn": 85,
-                    "endOffset": 142857
+                    "endOffset": 142883
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -12005,9 +12005,9 @@
                 "to": {
                     "startLine": 1751,
                     "startColumn": 4,
-                    "startOffset": 142862,
+                    "startOffset": 142888,
                     "endColumn": 103,
-                    "endOffset": 142961
+                    "endOffset": 142987
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -12024,9 +12024,9 @@
                 "to": {
                     "startLine": 1752,
                     "startColumn": 4,
-                    "startOffset": 142966,
+                    "startOffset": 142992,
                     "endColumn": 95,
-                    "endOffset": 143057
+                    "endOffset": 143083
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -12043,9 +12043,9 @@
                 "to": {
                     "startLine": 1753,
                     "startColumn": 4,
-                    "startOffset": 143062,
+                    "startOffset": 143088,
                     "endColumn": 87,
-                    "endOffset": 143145
+                    "endOffset": 143171
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -12062,10 +12062,10 @@
                 "to": {
                     "startLine": 1754,
                     "startColumn": 4,
-                    "startOffset": 143150,
+                    "startOffset": 143176,
                     "endLine": 1755,
                     "endColumn": 12,
-                    "endOffset": 143263
+                    "endOffset": 143289
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -12083,10 +12083,10 @@
                 "to": {
                     "startLine": 1756,
                     "startColumn": 4,
-                    "startOffset": 143268,
+                    "startOffset": 143294,
                     "endLine": 1757,
                     "endColumn": 12,
-                    "endOffset": 143367
+                    "endOffset": 143393
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -12104,10 +12104,10 @@
                 "to": {
                     "startLine": 1758,
                     "startColumn": 4,
-                    "startOffset": 143372,
+                    "startOffset": 143398,
                     "endLine": 1759,
                     "endColumn": 12,
-                    "endOffset": 143471
+                    "endOffset": 143497
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -12125,10 +12125,10 @@
                 "to": {
                     "startLine": 1760,
                     "startColumn": 4,
-                    "startOffset": 143476,
+                    "startOffset": 143502,
                     "endLine": 1761,
                     "endColumn": 12,
-                    "endOffset": 143597
+                    "endOffset": 143623
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -12146,9 +12146,9 @@
                 "to": {
                     "startLine": 1762,
                     "startColumn": 4,
-                    "startOffset": 143602,
+                    "startOffset": 143628,
                     "endColumn": 87,
-                    "endOffset": 143685
+                    "endOffset": 143711
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -12165,9 +12165,9 @@
                 "to": {
                     "startLine": 1763,
                     "startColumn": 4,
-                    "startOffset": 143690,
+                    "startOffset": 143716,
                     "endColumn": 107,
-                    "endOffset": 143793
+                    "endOffset": 143819
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -12184,9 +12184,9 @@
                 "to": {
                     "startLine": 1764,
                     "startColumn": 4,
-                    "startOffset": 143798,
+                    "startOffset": 143824,
                     "endColumn": 99,
-                    "endOffset": 143893
+                    "endOffset": 143919
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -12203,9 +12203,9 @@
                 "to": {
                     "startLine": 1765,
                     "startColumn": 4,
-                    "startOffset": 143898,
+                    "startOffset": 143924,
                     "endColumn": 89,
-                    "endOffset": 143983
+                    "endOffset": 144009
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -12222,9 +12222,9 @@
                 "to": {
                     "startLine": 1766,
                     "startColumn": 4,
-                    "startOffset": 143988,
+                    "startOffset": 144014,
                     "endColumn": 109,
-                    "endOffset": 144093
+                    "endOffset": 144119
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -12241,9 +12241,9 @@
                 "to": {
                     "startLine": 1767,
                     "startColumn": 4,
-                    "startOffset": 144098,
+                    "startOffset": 144124,
                     "endColumn": 83,
-                    "endOffset": 144177
+                    "endOffset": 144203
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -12260,9 +12260,9 @@
                 "to": {
                     "startLine": 1768,
                     "startColumn": 4,
-                    "startOffset": 144182,
+                    "startOffset": 144208,
                     "endColumn": 101,
-                    "endOffset": 144279
+                    "endOffset": 144305
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -12279,9 +12279,9 @@
                 "to": {
                     "startLine": 1769,
                     "startColumn": 4,
-                    "startOffset": 144284,
+                    "startOffset": 144310,
                     "endColumn": 83,
-                    "endOffset": 144363
+                    "endOffset": 144389
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -12298,9 +12298,9 @@
                 "to": {
                     "startLine": 1770,
                     "startColumn": 4,
-                    "startOffset": 144368,
+                    "startOffset": 144394,
                     "endColumn": 53,
-                    "endOffset": 144417
+                    "endOffset": 144443
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -12317,9 +12317,9 @@
                 "to": {
                     "startLine": 1771,
                     "startColumn": 4,
-                    "startOffset": 144422,
+                    "startOffset": 144448,
                     "endColumn": 63,
-                    "endOffset": 144481
+                    "endOffset": 144507
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -12336,9 +12336,9 @@
                 "to": {
                     "startLine": 1772,
                     "startColumn": 4,
-                    "startOffset": 144486,
+                    "startOffset": 144512,
                     "endColumn": 105,
-                    "endOffset": 144587
+                    "endOffset": 144613
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -12355,9 +12355,9 @@
                 "to": {
                     "startLine": 1773,
                     "startColumn": 4,
-                    "startOffset": 144592,
+                    "startOffset": 144618,
                     "endColumn": 109,
-                    "endOffset": 144697
+                    "endOffset": 144723
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -12374,9 +12374,9 @@
                 "to": {
                     "startLine": 1774,
                     "startColumn": 4,
-                    "startOffset": 144702,
+                    "startOffset": 144728,
                     "endColumn": 83,
-                    "endOffset": 144781
+                    "endOffset": 144807
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -12393,9 +12393,9 @@
                 "to": {
                     "startLine": 1775,
                     "startColumn": 4,
-                    "startOffset": 144786,
+                    "startOffset": 144812,
                     "endColumn": 119,
-                    "endOffset": 144901
+                    "endOffset": 144927
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml",
@@ -12412,10 +12412,10 @@
                 "to": {
                     "startLine": 1776,
                     "startColumn": 4,
-                    "startOffset": 144906,
+                    "startOffset": 144932,
                     "endLine": 1783,
                     "endColumn": 12,
-                    "endOffset": 145421
+                    "endOffset": 145447
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values/values.xml",
@@ -12433,10 +12433,10 @@
                 "to": {
                     "startLine": 1784,
                     "startColumn": 4,
-                    "startOffset": 145426,
+                    "startOffset": 145452,
                     "endLine": 1791,
                     "endColumn": 12,
-                    "endOffset": 145928
+                    "endOffset": 145954
                 },
                 "from": {
                     "file": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values/values.xml",

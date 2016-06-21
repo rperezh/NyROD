@@ -8,16 +8,16 @@
         "source": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/home/raul/git/NyROD/app/build/intermediates/res/merged/debug/layout/activity_maps.xml",
-        "source": "/home/raul/git/NyROD/app/src/main/res/layout/activity_maps.xml"
-    },
-    {
         "merged": "/home/raul/git/NyROD/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
         "source": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_list_menu_item_icon.xml"
     },
     {
         "merged": "/home/raul/git/NyROD/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
         "source": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/raul/git/NyROD/app/build/intermediates/res/merged/debug/layout/activity_maps.xml",
+        "source": "/home/raul/git/NyROD/app/src/main/res/layout/activity_maps.xml"
     },
     {
         "merged": "/home/raul/git/NyROD/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
@@ -104,12 +104,12 @@
         "source": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/home/raul/git/NyROD/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_expanded_menu_layout.xml"
-    },
-    {
         "merged": "/home/raul/git/NyROD/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
         "source": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/raul/git/NyROD/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_expanded_menu_layout.xml"
     },
     {
         "merged": "/home/raul/git/NyROD/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",

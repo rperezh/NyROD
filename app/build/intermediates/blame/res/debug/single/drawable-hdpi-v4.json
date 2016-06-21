@@ -208,12 +208,12 @@
         "source": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/drawable-hdpi-v4/common_plus_signin_btn_text_light_disabled.9.png"
     },
     {
-        "merged": "/home/raul/git/NyROD/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
-        "source": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
-    },
-    {
         "merged": "/home/raul/git/NyROD/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
         "source": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/raul/git/NyROD/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/home/raul/git/NyROD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
     },
     {
         "merged": "/home/raul/git/NyROD/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
